@@ -3,21 +3,6 @@
 ### About Me:    
 Software Engineer/Programmer in web applications, Badminton Player, Chess Player, F1 Fan, 2JZ-GTE JDM head, Bitcoiner, Funcle
 
-Always learning
-
-Just for fun
-
-#### Sports Teams
-NBA: Lakers
-MLB: Angels
-NFL: Patriots, 49ers
-
-#### New hobbies
-Dabbles in guitar, piano and karaoke (playing singing pretend)
-
-#### Old hobbies
-Former gamer, tenor saxophone player
-
 ### Working on: 🚀
 - Web applications,
 - Databases,
