@@ -1,13 +1,12 @@
 ## Hey, I'm Bryan
 
 ### About Me:    
-Software Engineer/Programmer in web applications, Badminton Player, Chess Player, F1 Fan, 2JZ-GTE JDM head, Bitcoiner, Funcle
+Software Engineer/Programmer
 
 ### Working on: 🚀
 - Web applications,
 - Databases,
-- Background jobs,
-- Side projects
+- Background jobs
 
 ## Languages, Frameworks and Tools 
 
