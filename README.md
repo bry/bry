@@ -41,9 +41,10 @@ Software Engineer/Programmer in web applications, Badminton Player, Chess Player
 
 ### Tools
 
-| VIM                                                                                                                                   | RubyMine                                                                                                                                                                                                                               | git | Hotwire | Sidekiq | SolidQueue | Kamal
-|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|----|---|----|-----|
+| VIM                                                                                                                                   | RubyMine                                                                                                                                                                                                                               | git |
+|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="VIM" alt="vim" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="RubyMine" alt="RubyMine" width="55" height="55" />  | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55" />  
+
 
 ### AI Tools
 
