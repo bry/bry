@@ -1,11 +1,18 @@
 ## Hey, I'm Bryan
 
 ### About Me:    
-👨‍💻 Software Engineer/Programmer in web applications and data management, funcle, lifelong-learner
+👨‍💻 Software Engineer/Programmer in web applications and data management, funcle, badminton player, lifelong-learner
 
+### Working on: 🚀
+- Web applications,
+- Databases,
+- Background jobs,
+- Payment systems,
+- API Integrations,
+- System Architecture & Design
 
-I enjoy: 
-- 👨‍💻 programming
+#### Hobbies
+- 👨‍💻 programming, software craftsmanship
 - 🏸 badminton
 - 🏎️ cars & motorsport
 - 👾 gaming
@@ -14,15 +21,7 @@ I enjoy:
 
 Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha 🍵
 
-L-theanine 🍵 + caffine ☕ = optimal mental focus 👀
-
-### Working on: 🚀
-- Web applications,
-- Databases,
-- Background jobs,
-- Payment systems,
-- API Integrations
-
+L-theanine 🍵 + caffine ☕ = increased mental focus
 
 ## Languages, Frameworks and Tools 
 
