@@ -11,7 +11,9 @@ I enjoy:
 - gaming 
 - bitcoin
 
-Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha
+Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha 🍵
+
+L-theanine + caffine = optimal mental focus
 
 ### Working on: 🚀
 - Web applications,
