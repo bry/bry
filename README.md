@@ -13,6 +13,7 @@
 - Background jobs,
 - Payment systems,
 - API Integrations,
+- Software Design,
 - System Architecture & Design
 
 #### Hobbies
