@@ -8,7 +8,8 @@ I enjoy:
 - 👨‍💻 programming
 - 🏸 badminton
 - 🏎️ cars & motorsport
-- 👾 gaming 
+- 👾 gaming
+- ♟️ chess
 - 🟠 bitcoin
 
 Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha 🍵
