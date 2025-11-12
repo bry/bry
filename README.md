@@ -1,7 +1,11 @@
 ## Hey, I'm Bryan
 
 ### About Me:    
-👨‍💻 Software Engineer/Programmer in web applications and data management, funcle, badminton player, lifelong-learner
+👨‍💻 Senior Full-Stack Software Engineer/Programmer in web applications and data management
+
+- funcle,
+- badminton player,
+- lifelong-learner
 
 ### Working on: 🚀
 - Web applications,
