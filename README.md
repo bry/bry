@@ -12,7 +12,7 @@
 - System Architecture & Design
 
 #### Hobbies
-- 👨‍💻 programming, software craftsmanship
+- 👨‍💻 programming
 - 🏸 badminton
 - 🏎️ cars & motorsport
 - 👾 gaming
