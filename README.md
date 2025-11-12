@@ -1,12 +1,25 @@
 ## Hey, I'm Bryan
 
 ### About Me:    
-Software Engineer/Programmer
+Software Engineer/Programmer in web applications and data management, funcle, lifelong-learner
+
+
+I enjoy: 
+- programming
+- badminton
+- cars & motorsport
+- gaming 
+- bitcoin
+
+Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha
 
 ### Working on: 🚀
 - Web applications,
 - Databases,
-- Background jobs
+- Background jobs,
+- Payment systems,
+- API Integrations
+
 
 ## Languages, Frameworks and Tools 
 
