@@ -24,9 +24,9 @@
 - ♟️ chess
 - 🟠 bitcoin
 
-Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha 🍵
-
 Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
+
+Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha 🍵
 
 L-theanine 🍵 + caffine ☕ = increased mental focus
 
