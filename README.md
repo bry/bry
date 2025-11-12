@@ -26,6 +26,8 @@
 
 Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha 🍵
 
+Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
+
 L-theanine 🍵 + caffine ☕ = increased mental focus
 
 ## Languages, Frameworks and Tools 
