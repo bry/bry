@@ -26,7 +26,7 @@
 
 Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
 
-Recent interests in LLMs, RAG architectures, prompt engineering, and homemade ceremonial matcha 🍵
+Recent interests in LLMs, RAG architectures, prompt engineering (AI Engineering by Chip Huyen), and homemade ceremonial matcha 🍵
 
 ## Languages, Frameworks and Tools 
 
