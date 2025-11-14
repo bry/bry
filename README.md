@@ -15,11 +15,11 @@ Software Engineer/Programmer
 - Software Design,
 - System Architecture & Design
 
+Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
+
 #### Hobbies
 - programming
 - badminton
-
-Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
 
 #### Recent Interests
 - Exploring full multicore CPU utilization for CPU-bound tasks using Ruby 3.5+ [Ractors](https://github.com/bry/iverson/blob/master/ruby_3.5/ractor_profile.rb) (JSON parsing performance improvement)
