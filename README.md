@@ -17,9 +17,12 @@ Software Engineer/Programmer
 
 Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
 
+Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue)
+
 #### Hobbies
 - programming
 - badminton
+ 
 
 #### Recent Interests
 - Exploring full multicore CPU utilization for CPU-bound tasks using Ruby 3.5+ [Ractors](https://github.com/bry/iverson/blob/master/ruby_3.5/ractor_profile.rb) (JSON parsing performance improvement)
