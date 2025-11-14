@@ -1,10 +1,9 @@
 ## Hey, I'm Bryan
 
 ### About Me:    
-👨‍💻 Senior Full-Stack Software Engineer/Programmer in web applications and data management
+👨‍💻 Software Engineer/Programmer
 
 - funcle,
-- badminton player,
 - lifelong-learner
 
 ### Working on: 🚀
@@ -19,10 +18,6 @@
 #### Hobbies
 - 👨‍💻 programming
 - 🏸 badminton
-- 🏎️ cars & motorsport
-- 👾 gaming
-- ♟️ chess
-- 🟠 bitcoin
 
 Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
 
