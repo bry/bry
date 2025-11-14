@@ -15,7 +15,7 @@ Software Engineer/Programmer
 - Software Design,
 - System Architecture & Design
 
-Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
+Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows _judiciously_
 
 Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via technical books & RailsConf YouTube
 
