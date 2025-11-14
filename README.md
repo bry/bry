@@ -17,7 +17,7 @@ Software Engineer/Programmer
 
 Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
 
-Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue)
+Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via technical books & RailsConf YouTube
 
 #### Hobbies
 - programming
