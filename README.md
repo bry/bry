@@ -1,12 +1,12 @@
 ## Hey, I'm Bryan
 
 ### About Me:    
-👨‍💻 Software Engineer/Programmer
+Software Engineer/Programmer
 
 - funcle,
 - lifelong-learner
 
-### Working on: 🚀
+### Working on: 
 - Web applications,
 - Databases,
 - Background jobs,
@@ -16,12 +16,16 @@
 - System Architecture & Design
 
 #### Hobbies
-- 👨‍💻 programming
-- 🏸 badminton
+- programming
+- badminton
 
 Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows
 
-Recent interests in LLMs, RAG architectures, prompt engineering (AI Engineering by Chip Huyen), and homemade ceremonial matcha 🍵
+#### Recent Interests
+- Exploring full multicore CPU utilization for CPU-bound tasks using Ruby 3.5+ [Ractors](https://github.com/bry/iverson/blob/master/ruby_3.5/ractor_profile.rb) (JSON parsing performance improvement)
+- LLMs, RAG architectures, prompt engineering (AI Engineering by Chip Huyen),
+- homemade ceremonial matcha 🍵 (L-theanine for metal focus)
+
 
 ## Languages, Frameworks and Tools 
 
