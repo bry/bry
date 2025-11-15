@@ -1,7 +1,7 @@
 ## Hey, I'm Bryan
 
 ### About Me:    
-Software Engineer/Programmer
+Software Engineer/Architect/Programmer
 
 - funcle,
 - lifelong-learner
@@ -13,7 +13,7 @@ Software Engineer/Programmer
 - Payment systems,
 - API Integrations,
 - Software Design,
-- System Architecture & Design
+- System Architecture & Design 
 
 Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows _judiciously_
 
@@ -27,6 +27,7 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via techni
 #### Recent Interests
 - Exploring full multicore CPU utilization for CPU-bound tasks using Ruby 3.5+ [Ractors](https://github.com/bry/iverson/blob/master/ruby_3.5/ractor_profile.rb) (JSON parsing performance improvement)
 - LLMs, RAG architectures, prompt engineering (AI Engineering by Chip Huyen),
+- System design ideas around scaling systems for reliability, scalability, and maintainability
 - homemade ceremonial matcha 🍵 (L-theanine for metal focus)
 
 
