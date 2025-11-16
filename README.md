@@ -31,6 +31,13 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via techni
 - homemade ceremonial matcha 🍵 (L-theanine for metal focus)
 
 
+### Inspiration
+
+- “What you do for yourself, you’re doing for others, and what you do for others, you’re doing for yourself.” -Phil Jackson, Eleven Rings: The Soul of Success
+- "Hardwork and smartwork beats talent (H&SBT)" -bry
+- Confucius say: "Man who run in front of car get tired; man who run behind car get exhausted." -Confucius on driving the car and staying focused in the moment
+
+
 ## 🧰 Languages, Frameworks and Tools 
 
 ### Languages:
