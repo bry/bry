@@ -37,6 +37,7 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via techni
 - "Hardwork and smartwork beats talent (H&SBT)" -bry
 - Confucius say: "Man who run in front of car get tired; man who run behind car get exhausted." -Confucius on driving the car and staying focused in the moment
 
+[Thank you](https://www.youtube.com/watch?v=XspDkqEtWFE)
 
 ## 🧰 Languages, Frameworks and Tools 
 
