@@ -1,12 +1,12 @@
-## Hey, I'm Bryan
+## 👋 Hey, I'm Bryan
 
-### About Me:    
+### 📖 About Me:    
 Software Engineer/Architect/Programmer
 
 - funcle,
 - lifelong-learner
 
-### Working on: 
+### 🚀 Working on: 
 - Web applications,
 - Databases,
 - Background jobs,
@@ -19,19 +19,19 @@ Using AI tools Cursor, Github Copilot & ChatGPT Codex to augment SWE workflows _
 
 Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via technical books & RailsConf YouTube
 
-#### Hobbies
+#### 🥇 Hobbies
 - programming
 - badminton
  
 
-#### Recent Interests/Reading
+#### 📚 Recent Interests/Reading
 - Exploring full multicore CPU utilization for CPU-bound tasks using Ruby 3.5+ [Ractors](https://github.com/bry/iverson/blob/master/ruby_3.5/ractor_profile.rb) (JSON parsing performance improvement)
 - LLMs, [RAG architectures](https://github.com/bry/documentation/blob/main/architecture/RAG/prompt_augmented_ai.png), prompt engineering (AI Engineering by Chip Huyen),
 - System design ideas around scaling _data-intensive_ systems for reliability, scalability, and maintainability (Designing Data-Intensive Applications by Martin Kleppmann)
 - homemade ceremonial matcha 🍵 (L-theanine for metal focus)
 
 
-## Languages, Frameworks and Tools 
+## 🧰 Languages, Frameworks and Tools 
 
 ### Languages:
 | Ruby                                                                                                                                       | Java                                                                                                                                      | C                                                                                                                        | JS | CSS 3 | HTML 5 |
