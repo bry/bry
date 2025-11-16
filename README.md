@@ -22,6 +22,7 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via techni
 #### 🥇 Hobbies
 - programming
 - badminton
+- personal finance
  
 
 #### 📚 Recent Interests/Reading
