@@ -36,11 +36,7 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails8+ (Hotwire, SolidQueue) via techni
 
 - “What you do for yourself, you’re doing for others, and what you do for others, you’re doing for yourself.” -Phil Jackson, Eleven Rings: The Soul of Success
 - Confucius say: "Man who run in front of car get tired; man who run behind car get exhausted." -Confucius on driving the car and staying focused in the moment
-- [You Can Do It](https://www.youtube.com/watch?v=uwTi1EpgIa0) -Townie
-- "Do or do not, there is no try" -Yoda
 
-[<img src="https://raw.githubusercontent.com/vieraboschkova/swapi-gallery/main/static/assets/img/people/20.jpg" width="75" />](
-https://www.youtube.com/watch?v=8rkdYSRoqRM)
 
 ## 🧰 Languages, Frameworks and Tools 
 
