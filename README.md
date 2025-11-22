@@ -81,4 +81,4 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails 8+ (Hotwire, SolidQueue) via techn
 
 | Cursor | ChatGPT | GitHub Copilot |
 |:------:|:-------:|:--------------:|
-| <img src="https://cursor.sh/favicon.ico" title="Cursor" alt="Cursor" width="55" height="55"/> | <img src="https://www.openai.com/favicon.ico" title="ChatGPT" alt="ChatGPT" width="55" height="55"/> | <img src="https://github.com/favicon.ico" title="GitHub Copilot" alt="GitHub Copilot" width="55" height="55"/> |
+| <img src="https://cursor.sh/favicon.ico" title="Cursor" alt="Cursor" width="55" height="55"/> | <img src="https://chatgpt.com/favicon.ico" title="ChatGPT" alt="ChatGPT" width="55" height="55"/> | <img src="https://github.com/favicon.ico" title="GitHub Copilot" alt="GitHub Copilot" width="55" height="55"/> |
