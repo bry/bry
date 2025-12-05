@@ -4,7 +4,7 @@
 
 Software Engineer / Architect / Programmer
 
-Mastery & builder identity (craftsmanship motivation)
+Mastery & builder identity (software craftsman)
 
 - Funcle
 - Lifelong learner
