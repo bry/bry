@@ -4,6 +4,8 @@
 
 Software Engineer / Architect / Programmer
 
+Myers-Briggs INTJ
+
 Mastery & builder identity (software craftsman)
 
 - Funcle
