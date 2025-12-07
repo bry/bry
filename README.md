@@ -2,9 +2,7 @@
 
 ### 📖 About Me
 
-Software Engineer / Architect / Programmer
-
-Myers-Briggs INTJ
+Software Engineer / Architect / Programmer (Myers-Briggs INTJ)
 
 Mastery & builder identity (software craftsman)
 
