@@ -28,6 +28,8 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails 8+ (Hotwire, SolidQueue) via techn
 - Programming
 - Badminton
 - Personal finance
+- Chess
+- Karaoke (not bad, but not good)
 
 ### 📚 Recent Interests/Reading
 
