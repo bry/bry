@@ -18,6 +18,7 @@ Mastery & builder identity (software craftsman)
 - API integrations
 - Software design
 - System architecture & design
+- Applied AI Platform Engineering - (RAG, LLM Systems, Retrieval Pipelines)
 
 Using AI tools (Cursor Agents, GitHub Copilot & ChatGPT) to augment SWE workflows *judiciously*.
 
