@@ -34,7 +34,6 @@ Keeping up with Ruby 3.5+ (Ractors) and Rails 8+ (Hotwire, SolidQueue) via techn
 
 ### 📚 Recent Interests/Reading
 
-- Exploring full multicore CPU utilization for CPU-bound tasks using Ruby 3.5+ [Ractors](https://github.com/bry/iverson/blob/master/ruby_3.5/ractor_profile.rb) (JSON parsing performance improvement)
 - LLMs, [RAG architectures](https://github.com/bry/documentation/blob/main/architecture/RAG/prompt_augmented_ai.png), prompt engineering (AI Engineering by Chip Huyen)
 - System design ideas around scaling *data-intensive* systems for reliability, scalability, and maintainability (Designing Data-Intensive Applications by Martin Kleppmann)
 - Homemade ceremonial matcha 🍵 (L-theanine for mental focus)
