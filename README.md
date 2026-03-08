@@ -4,6 +4,15 @@
 
 Software Engineer / Architect / Programmer (Myers-Briggs INTJ)
 
+Specializations: 
+- Ruby
+- Ruby on Rails web application technical stack
+- Postgres
+
+Most recent specializations:
+- Python
+- Applied AI platform engineering
+
 ### 🚀 Working On
 
 - Web applications
@@ -11,11 +20,10 @@ Software Engineer / Architect / Programmer (Myers-Briggs INTJ)
 - Background jobs
 - Payment systems
 - API integrations
-- Software design
-- System architecture & design
+- Software & system architecture & design
 - Applied AI Platform Engineering - (RAG, LLM Systems, Retrieval Pipelines)
 
-Using AI tools (Cursor Agents, GitHub Copilot & ChatGPT) to augment SWE workflows *judiciously*.
+Using AI tools and agents (Cursor Agents, GitHub Copilot & ChatGPT) to augment SWE workflows *judiciously*.
 
 Keeping up with Ruby 3.5+ (Ractors) and Rails 8+ (Hotwire, SolidQueue) via technical books & RailsConf YouTube
 
