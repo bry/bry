@@ -9,7 +9,7 @@ Specializations:
 - Ruby on Rails web application technical stack
 - Postgres
 
-Most recent specializations:
+Most recent interests:
 - Python
 - Applied AI platform engineering
 
