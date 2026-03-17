@@ -20,8 +20,8 @@ Most recent interests:
 - Background jobs
 - Payment systems
 - API integrations
-- Software & system architecture & design
-- Applied AI Platform Engineering - (RAG, LLM Systems, Retrieval Pipelines)
+- Software OOA/D and system architecture and design
+- AI Platform Engineering - (RAG, LLM Systems, Retrieval Pipelines)
 
 Using AI tools and agents (Cursor Agents, GitHub Copilot & ChatGPT) to augment SWE workflows *judiciously*.
 
