@@ -6,7 +6,7 @@ Software Engineer / Architect / Programmer (Myers-Briggs INTJ)
 
 Specializations: 
 - Ruby
-- Ruby on Rails web application technical stack
+- Ruby on Rails
 - Postgres
 
 Most recent interests:
