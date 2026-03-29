@@ -5,27 +5,10 @@
 Software Engineer / Architect / Programmer (Myers-Briggs INTJ)
 
 Specializations: 
-- Ruby
-- Ruby on Rails
-- Postgres
-
-Most recent interests:
-- Python
-- Applied AI platform engineering
-
-### 🚀 Working On
-
-- Web applications
-- Databases
-- Background jobs
-- Payment systems
-- API integrations
-- Software OOA/D and system architecture/design
-- AI Platform Engineering - (RAG, LLM Systems, Retrieval Pipelines)
-
-Using AI tools and agents (Cursor Agents, GitHub Copilot & ChatGPT) to augment SWE workflows *judiciously*.
-
-Keeping up with Ruby 3.5+ (Ractors) and Rails 8+ (Hotwire, SolidQueue) via technical books & RailsConf YouTube
+- Payments & Financial Systems Engineering
+- Scalable Backend Systems (Ruby on Rails + Infrastructure)
+- API Architecture & Integration Systems
+- LLM/RAG Systems (AI Backend Systems Engineering + Python)
 
 ### 🥇 Hobbies
 
