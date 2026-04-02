@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Software Engineer / Architect / Programmer (Myers-Briggs INTJ)
+Software Engineer / Architect / Designer / Programmer / Hacker (Myers-Briggs INTJ)
 
 Specializations: 
 - Payments & Financial Systems Engineering
