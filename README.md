@@ -33,7 +33,7 @@ Specializations:
 ### Languages
 
 | Ruby | Java | C | JavaScript | CSS3 | HTML5 | Perl | QBasic |
-|:----:|:----:|:-:|:----------:|:----:|:-----:|:------------------------:|:----:|:------:|
+|:----:|:----:|:-:|:----------:|:----:|:-----:|:----:|:------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/perl/perl-original.svg" title="Perl" alt="Perl" width="55" height="55"/> | <img src="https://www.microsoft.com/favicon.ico" title="QBasic" alt="QBasic" width="55" height="55"/> |
 
 ### Frameworks
