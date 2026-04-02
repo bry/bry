@@ -58,7 +58,7 @@ Specializations:
 
 | Ubuntu | Umbrel | macOS |
 |:------:|:------:|:-----:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/getumbrel/umbrel/blob/master/packages/ui/public/figma-exports/umbrel-ios.png" title="Umbrel" alt="Umbrel" width="55" height="55"/> | <img src="https://developer.apple.com/licensing-trademarks/images/mac-logo.svg" title="macOS" alt="macOS" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://www.google.com/s2/favicons?sz=64&domain=umbrel.com" title="Umbrel" alt="Umbrel" width="55" height="55"/> | <img src="https://developer.apple.com/licensing-trademarks/images/mac-logo.svg" title="macOS" alt="macOS" width="55" height="55"/> |
 
 ### Tools
 
