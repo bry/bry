@@ -27,8 +27,6 @@ Specializations:
 - "What you do for yourself, you're doing for others, and what you do for others, you're doing for yourself." — Phil Jackson, *Eleven Rings: The Soul of Success*
 - Confucius say: "Man who run in front of car get tired; man who run behind car get exhausted." — Confucius on driving the car and staying focused in the moment
 
-- On AI: You still need to know how to code, test and maintain until AGI. Humans are better than AI LLMs, until AGI, with tradeoffs, context, ownership, problem framing, taste, long-term thinking, and knowing when AI is wrong.
-
 ## 🧰 Languages, Frameworks and Tools
 
 ### Languages
