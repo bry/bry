@@ -18,9 +18,8 @@ Specializations:
 
 ### 📚 Recent Interests/Reading
 
-- LLMs, [RAG architectures](https://github.com/bry/documentation/blob/main/architecture/RAG/prompt_augmented_ai.png), prompt engineering (AI Engineering by Chip Huyen)
+- Runnin' Down a Dream by Bill Gurley
 - System design ideas around scaling *data-intensive* systems for reliability, scalability, and maintainability (Designing Data-Intensive Applications by Martin Kleppmann)
-- Homemade ceremonial matcha 🍵 (L-theanine for mental focus)
 
 ### 💡 Inspiration
 
