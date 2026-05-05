@@ -15,11 +15,13 @@ Specializations:
 - Badminton
 - Chess
 - Karaoke (not bad, but not good)
+- Growing & Cultivation
 
 ### 📚 Recent Interests/Reading
 
 - Runnin' Down a Dream by Bill Gurley
 - System design ideas around scaling *data-intensive* systems for reliability, scalability, and maintainability (Designing Data-Intensive Applications by Martin Kleppmann)
+  
 
 ### 💡 Inspiration
 
