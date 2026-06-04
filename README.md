@@ -15,7 +15,6 @@ Specializations:
 - Badminton
 - Chess
 - Karaoke (not bad, but not good)
-- Growing & Cultivation
 
 ### 📚 Recent Interests/Reading
 
