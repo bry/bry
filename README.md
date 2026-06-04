@@ -15,6 +15,7 @@ Specializations:
 - Badminton
 - Chess
 - Karaoke (not bad, but not good)
+- Bitcoin & Bitcoin Mining [Braiins Mini Miner BMM 101](https://store.braiins.com/products/bmm-101)
 
 ### 📚 Recent Interests/Reading
 
