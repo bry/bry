@@ -35,6 +35,14 @@ Specializations:
 - "What you do for yourself, you're doing for others, and what you do for others, you're doing for yourself." — Phil Jackson, *Eleven Rings: The Soul of Success*
 - Confucius say: "Man who run in front of car get tired; man who run behind car get exhausted." — Confucius on driving the car and staying focused in the moment
 
+- [Kent Beck on TDD, AI agents and coding](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
+
+<video width="640" height="360" controls>
+  <source src="https://www.youtube.com/watch?v=aSXaxOdVtAQ" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## 🧰 Languages, Frameworks and Tools
 
 ### Languages
