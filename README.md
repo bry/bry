@@ -66,9 +66,9 @@ Specializations:
 
 ### Environments
 
-| Docker | Heroku | Cloudflare | Cloudflare Workers | Sentry |
-|:------:|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflareworkers/cloudflareworkers-original.svg" title="CloudflareWorkers" alt="CloudflareWorkers" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="55" height="55"/> 
+| Docker | Heroku | Cloudflare | Cloudflare Workers | Sentry | Stripe
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflareworkers/cloudflareworkers-original.svg" title="CloudflareWorkers" alt="CloudflareWorkers" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="55" height="55"/> | <img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" title="Sentry" alt="Sentry" width="55" height="55"/> 
 
 ### Operating Systems
 
