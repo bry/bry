@@ -9,6 +9,11 @@ Specializations:
 - Scalable Backend Systems (Ruby on Rails + Infrastructure)
 - API Architecture & Integration Systems
 
+### 🚀 Working On
+
+- Web app game match lobby system (hotwire - data submission, active cable - live match lobby room updates)
+- Cloud image storage, image processing
+
 ### 🥇 Hobbies
 
 - Programming
@@ -19,7 +24,9 @@ Specializations:
 
 ### 📚 Recent Interests/Reading
 
-- System design ideas around scaling *data-intensive* systems for reliability, scalability, and maintainability (Designing Data-Intensive Applications by Martin Kleppmann)
+- Cosmic Conscioussness by Richard Maurice Bucke
+- Hooked: How to Build Habit-Forming Product by Nir Eyal
+- [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/)
   
 
 ### 💡 Inspiration
