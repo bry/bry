@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Senior Software Engineer (Myers-Briggs INTJ)
+Pragmatic Senior Software Engineer (Myers-Briggs INTJ)
 
 Specializations: 
 - Payments & Financial Systems Engineering
