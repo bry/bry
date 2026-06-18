@@ -11,8 +11,8 @@ Specializations:
 
 ### 🚀 Working On
 
-- Web app game match lobby system (hotwire - data submission, active cable - live match lobby room updates)
-- Cloud image storage, image processing
+- Web app game match live lobby system (hotwire - data submission, active cable - live match lobby room updates)
+- Cloudflare CDN image storage, image processing
 
 ### 🥇 Hobbies
 
@@ -57,7 +57,7 @@ Specializations:
 
 ### Environments
 
-| Docker | Heroku |
+| Docker | Heroku | Cloudflare | Paperclip | Sentry |
 |:------:|:------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="55" height="55"/> |
 
