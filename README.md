@@ -11,8 +11,9 @@ Specializations:
 
 ### 🚀 Working On
 
-- Web app game match live lobby system (hotwire - data submission, active cable - live match lobby room updates)
-- Cloudflare CDN image storage, image processing
+- Sportsara - A social fitness platform for recreational sports that turns every match into rating progress, match history, estimated calories burned and community connection
+  - Web app game match live lobby system (hotwire - data submission, active cable - live match lobby room updates)
+  - Cloudflare CDN image storage, image processing
 
 ### 🥇 Hobbies
 
