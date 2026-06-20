@@ -11,9 +11,19 @@ Specializations:
 
 ### 🚀 Working On
 
-- Sportsara - An app that helps badminton doubles players track matches, build ratings and estimate calories burned through match score reporting
+- Sportsara - An app that helps badminton doubles players build pair ratings and estimate personal calories burned through match score reporting
   - Game match IRL lobby system
   - Cloudflare R2 image storage, Cloudflare Workers - Image Transforms
+ 
+Brief How Sportsara Works:
+For every badminton match point recorded: 
+1. an estimated calories per point played will be tallied for an individual:
+     (Light Work) 1 calorie burned per point played
+     (Mid workout) 1.5 calories burned per point played
+     (I'm gassed workout) 2 calories per point burned 
+2. a modified ELO rating will be adjusted for the playing pair
+
+The aim is a fun progress and accountability app for a badmiton playing pair
 
 ### 🥇 Hobbies
 
