@@ -11,7 +11,7 @@ Specializations:
 
 ### 🚀 Working On
 
-- Sportsara - An app that helps recreational sports players track matches, build ratings, estimate calories burned, and connect with their local sports community
+- Sportsara - An app that helps badminton doubles players track matches, build ratings, estimate calories burned, and connect with their local sports community
   - Game match live lobby system (hotwire - data submission, active cable - live match lobby room updates, core engine)
   - Cloudflare CDN image storage, image processing
 
