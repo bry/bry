@@ -12,7 +12,7 @@ Specializations:
 ### 🚀 Working On
 
 - Sportsara - An app that helps badminton doubles players track matches, build ratings, estimate calories burned, and connect with their local sports community
-  - Game match IRL lobby system (hotwire - data submission, active cable - live match lobby room updates, core engine)
+  - Game match IRL lobby system
   - Cloudflare R2 image storage, Cloudflare Workers - Image Transforms
 
 ### 🥇 Hobbies
