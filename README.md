@@ -24,7 +24,8 @@ Specializations:
     - A modified ELO rating will be adjusted for the playing pair
 
   - The aim is a standard progress and accountability app for a badmiton playing pair
-  - Sportsara fixes the fragmented and gatekept player rating systems in badminton and makes it fair and objective via modified ELO
+  - Sportsara fixes the fragmented and gatekept player level rating systems in badminton and makes it fair and objective via modified ELO, player score submitted, central system
+  - [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
 
