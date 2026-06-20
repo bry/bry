@@ -17,11 +17,11 @@ Specializations:
  
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
-    - 1. An estimated calories per point played will be tallied for an individual:
-      - 1.a. (Light Work) 1 calorie burned per point played
-      - 1.b. (Mid workout) 1.5 calories burned per point played
-      - 1.c. (I'm gassed workout) 2 calories per point burned 
-    - 2. A modified ELO rating will be adjusted for the playing pair
+    - An estimated calories per point played will be tallied for an individual:
+      - (Light Work) 1 calorie burned per point played
+      - (Mid workout) 1.5 calories burned per point played
+      - (I'm gassed workout) 2 calories per point burned
+    - A modified ELO rating will be adjusted for the playing pair
 
 The aim is a fun progress and accountability app for a badmiton playing pair
 
