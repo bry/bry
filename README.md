@@ -26,7 +26,7 @@ Specializations:
 
 - Programming
 - Badminton
-- Chess (1640 USCF ELO, Last OTB Tournament Oct. 2003)
+- Chess (1640 US Chess Federation ELO)
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining [Braiins Mini Miner BMM 101](https://store.braiins.com/products/bmm-101)
 - Beginning Learning Mandarin: 你想不想boba奶六茶吗？
