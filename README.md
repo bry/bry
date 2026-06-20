@@ -23,7 +23,8 @@ Specializations:
       - (I'm gassed workout) 2 calories burned per point played
     - A modified ELO rating will be adjusted for the playing pair
 
-The aim is a fun progress and accountability app for a badmiton playing pair
+The aim is a standard progress and accountability app for a badmiton playing pair
+Sportsara fixes the fragmented and gatekept player rating systems in badminton and makes it fair and objective via modified ELO
 
 ### 🥇 Hobbies
 
