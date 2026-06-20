@@ -20,7 +20,7 @@ Specializations:
     - An estimated calories per point played will be tallied for an individual:
       - (Light Work) 1 calorie burned per point played
       - (Mid workout) 1.5 calories burned per point played
-      - (I'm gassed workout) 2 calories per point burned
+      - (I'm gassed workout) 2 calories burned per point played
     - A modified ELO rating will be adjusted for the playing pair
 
 The aim is a fun progress and accountability app for a badmiton playing pair
