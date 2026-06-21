@@ -9,6 +9,8 @@ Specializations:
 - Scalable Backend Systems (Ruby on Rails + Infrastructure)
 - API Architecture & Integration Systems
 
+I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem for developing web applications.
+
 ### 🚀 Working On
 
 - Sportsara - A simple, popular app that helps badminton doubles players build pair ratings and estimate personal calories burned through match score reporting
