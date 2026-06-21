@@ -20,7 +20,7 @@ Specializations:
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Sportsara fixes the fragmented, subjective and gatekept player level rating systems in badminton and makes badminton level rating fair and objective for everyone
-  - [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
+  - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
 
