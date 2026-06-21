@@ -16,9 +16,9 @@ Specializations:
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
     - An estimated 1 calorie per point played will be tallied for an individual
-    - A modified ELO rating will be adjusted for the playing pair
+    - [Optional] A modified ELO rating will be adjusted for the playing pair
 
-  - The aim is a standard progress and accountability app for a badmiton playing pair
+  - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Sportsara fixes the fragmented, subjective and gatekept player level rating systems in badminton and makes badminton level rating fair and objective for everyone
   - [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
