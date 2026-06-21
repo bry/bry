@@ -11,7 +11,7 @@ Specializations:
 
 ### 🚀 Working On
 
-- Sportsara - An app that helps badminton doubles players build pair ratings and estimate personal calories burned through match score reporting
+- Sportsara - A simple, popular app that helps badminton doubles players build pair ratings and estimate personal calories burned through match score reporting
  
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
