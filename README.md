@@ -11,7 +11,7 @@ Specializations:
 
 I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem for developing web applications.
 
-### 🚀 Working On
+### 👨🏻‍💻 Working On
 
 - Sportsara - A simple app that estimates personal calories burned per point played through badminton match score reporting
     - Optionally, app offers a way to track badminton doubles players' ELO pair ratings
