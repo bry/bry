@@ -19,7 +19,7 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
     - An estimated 1 calorie burned per point played will be tallied for an individual
-    - [Optional] A modified ELO rating, tailed to badminton, will be adjusted for the playing pair
+    - [Optional] A modified ELO rating, tailored to badminton, will be adjusted for the playing pair
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Sportsara fixes the fragmented, subjective and gatekept player level rating systems in badminton and makes badminton level rating fair, accessilbe, objective and fun for everyone
