@@ -13,7 +13,7 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
 
 ### 🚀 Working On
 
-- Sportsara - A simple app that estimate personal calories burned per point played through match score reporting
+- Sportsara - A simple app that estimates personal calories burned per point played through match score reporting
     - Optionally, app offers a way to track badminton doubles players build pair ratings
  
 - Brief How Sportsara Works:
