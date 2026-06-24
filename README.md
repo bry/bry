@@ -22,7 +22,7 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
     - [Optional] A modified ELO rating, tailored to badminton, will be adjusted for the playing pair
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
-  - Problem: Sports ELO is non-standard across organizations, subjective and a gatekept player level rating systems. Sportsara is an attempt to make pair level ratings fair, accessible, objective and fun for everyone.
+  - Problem: Sports ELO is non-standard across organizations, subjective and a gatekept player rating system. Sportsara is an attempt to make pair level ratings fair, accessible, objective and fun for everyone.
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
