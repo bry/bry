@@ -32,7 +32,7 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
 - Chess (1640 US Chess Federation ELO)
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining [Braiins Mini Miner BMM 101](https://store.braiins.com/products/bmm-101)
-- Beginning Learning Mandarin: 你想不想boba奶六茶吗？
+- Beginning Mandarin: 你想不想boba奶六茶吗？
 
 ### 📚 Recent Interests/Reading
 
