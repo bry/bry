@@ -40,7 +40,7 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
 - Hooked: How to Build Habit-Forming Product by Nir Eyal
 - [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/)
 - Heroku ruby-vips image processing 512MB memory limits and offload to Cloudflare
-- Heroku Postgres */20 db connection limit - process & thread saturation, optimal web app request performance tuning
+- Web app & db request performance tuning: Heroku Postgres */20 db connection limit - process & thread saturation
   - Rails 8 Solid Queue - 1 process * 3 threads + 1 dispatcher + 1 thread monitor = 5 db pool connections
   - Reserved db connections:
     - 2 reserved buffer for rails console / heroku run rails c / psql
