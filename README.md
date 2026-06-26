@@ -77,9 +77,9 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
 
 ### Databases
 
-| PostgreSQL | MongoDB |
-|:----------:|:-------:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> |
+| PostgreSQL |
+|:----------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> 
 
 ### Environments
 
