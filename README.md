@@ -13,16 +13,21 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
 
 ### 👨🏻‍💻 Working On
 
-- Sportsara MVP - A simple app that estimates personal calories burned per point played through badminton match score reporting
-    - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings
+- Sportsara - A simple app that estimates personal calories burned per point played through badminton match score reporting
+    - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
+    - Additionally, player profiles for leaderboard attribute querying i.e.:
+      - Top 10 player pairs in Los Angeles
+      - Top 100 XD California player pairs
+      - #1 player pair in the United States
  
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
     - An estimated 1 calorie burned per point played will be tallied for an individual
-    - [Optional] A modified ELO rating, tailored to badminton, will be adjusted for the playing pair
+    - [Optional] A modified ELO rating will be adjusted for the playing pair
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Problem: Sports ELO is non-standard across organizations, subjective and a gatekept player rating system. Sportsara is an attempt to make pair level ratings fair, accessible, objective and fun for everyone.
+  - Insight: 1. Individuals can be tournament organizers, administering community match, peer-to-peer community ELO, 2. Software append only records instead of paper or excel maintained records for player ELO integrity
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
