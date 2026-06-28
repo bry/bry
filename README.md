@@ -9,7 +9,7 @@ Specializations:
 - Scalable Backend Systems (Ruby on Rails + Infrastructure)
 - API Architecture & Integration Systems
 
-I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem for building web applications.
+I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
 ### 👨🏻‍💻 Working On
 
