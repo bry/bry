@@ -5,6 +5,7 @@
 Senior Software Engineer (Myers-Briggs INTJ)
 
 Specializations: 
+- Web and data management
 - Payments & Financial Systems Engineering
 - Scalable Backend Systems (Ruby on Rails + Infrastructure)
 - API Architecture & Integration Systems
