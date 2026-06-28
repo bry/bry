@@ -64,6 +64,7 @@ I ♥️ the Ruby and Ruby on Rails open source software and tooling ecosystem f
 - [Kent Beck on TDD, AI agents and coding](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
 - [Steve Jobs on Agency](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 - "Life is editable, important to be rigid but flexible"
+- "Unite the clans; unite them." - William Wallace, [Braveheart](https://www.youtube.com/watch?v=g2oJhWi5SQ4)
 - "Focus Determination Earnesty Execution"
 
 
