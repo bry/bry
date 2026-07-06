@@ -66,6 +66,7 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
 - [Steve Jobs on Agency](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
 - "Life is editable, important to be rigid but flexible"
 - "Unite the clans; unite them." - William Wallace, [Braveheart](https://www.youtube.com/watch?v=g2oJhWi5SQ4)
+- "ART when really understood is the province of every human being. It is simply a question of doing things, anything, well. It is not an outside, extra thing. When the artist is alive in any person, whatever his kind of work may be, he becomes an inventive, searching, daring, self-expressing creature. He becomes interesting to other people. He disturbs, upsets, enlightens, and he opens ways for a better understanding.", The Art Spirit, Robert Henri, Painter, on Creativity Through the Eyes of an Art Student
 - "Focus Determination Earnesty Execution"
 
 
