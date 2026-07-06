@@ -79,8 +79,8 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
 
 ### Frameworks
 
-| Rails 8| Gosu | Turbo |
-|:-----:|:----:|:-----:|
+| Rails 8| Gosu | Turbo | Hotwire | Hotwire Native
+|:-----:|:----:|:-----:|:------:|:----------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/12500153?s=200&v=4" title="Gosu" alt="Gosu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/turbo/turbo-original.svg" title="Turbo" alt="Turbo" width="55" height="55"/> |
 
 ### Databases
