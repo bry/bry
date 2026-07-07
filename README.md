@@ -28,7 +28,7 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Problem: Sports ELO is non-standard across organizations, subjective and a gatekept player rating system. Sportsara is an attempt to make pair level ratings fair, accessible, objective and fun for everyone.
-  - Insight: 1. Individuals can be tournament organizers, administering community match, peer-to-peer community ELO, 2. Software append only records instead of paper or excel maintained records for player World OpenELO integrity
+  - Insight: 1. Individuals can be tournament organizers, administering community match, peer-to-peer community ELO, 2. Software append only records instead of paper or excel maintained records for player ELO integrity
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
