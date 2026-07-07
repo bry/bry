@@ -48,15 +48,6 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
 - Hooked: How to Build Habit-Forming Product by Nir Eyal
 - [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/)
 - Heroku ruby-vips image processing 512MB memory limits and offload to Cloudflare
-- Web app & db request performance tuning: Heroku Postgres */20 db connection limit - process & thread saturation
-  - Rails 8 Solid Queue - 1 process * 3 threads + 1 dispatcher + 1 thread monitor = 5 db pool connections
-  - Reserved db connections:
-    - 2 reserved buffer for rails console / heroku run rails c / psql
-    - 1 reserved buffer for migrations / release phase
-    - 1 reserved buffer for Heroku system maintenance monitoring
-    - 1-2 reserved buffer for traffic spikes / connection leaks /deploy overlap
-    - 14-15 safe app connections (web process * web threads, queue process * queue threads + queue dispatcher + queue thread heartbeat monitor, any cache, any cable)
-    - DB engineering rule of thumb: Keep 20-30% db connections open for reserved system related maintenance
   
 
 ### 💡 Inspiration
