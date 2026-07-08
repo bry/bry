@@ -20,6 +20,7 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
       - Top 10 player pairs in Los Angeles
       - Top 100 XD California player pairs
       - #1 player pair in the United States
+    - Built for people that love tracking fitness, health and results metrics
  
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
