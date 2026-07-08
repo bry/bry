@@ -12,7 +12,7 @@ Specializations:
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
-### 👨🏻‍💻 Working On
+### 👨🏻‍💻 Building
 
 - Sportsara - A simple app that estimates personal calories burned per point played through badminton match score reporting for health and fitness concious players
     - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
@@ -20,7 +20,7 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
       - Top 10 player pairs in Los Angeles
       - Top 100 XD California player pairs
       - #1 player pair in the United States
-    - Built for people that love tracking fitness, health and results metrics
+    - Built for badminton players that love tracking fitness, health and results metrics
  
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
