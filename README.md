@@ -12,6 +12,10 @@ Specializations:
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
+Badminton player (learning the sport technicals) and fan (Lin D. = Goat)
+
+Funcle
+
 ### 👨🏻‍💻 Building
 
 - Sportsara - A simple app that estimates personal calories burned per point played through badminton match score reporting for health and fitness concious players
