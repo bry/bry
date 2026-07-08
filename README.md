@@ -12,7 +12,7 @@ Specializations:
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
-Badminton player (learning the sport technicals) and fan (Lin D. = Goat)
+Badminton player (learning the sport technicals)
 
 Funcle
 
