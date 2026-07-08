@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Senior Software Engineer (Myers-Briggs INTJ)
+Senior Software Engineer (Myers-Briggs INTJ) / Maker / Builder
 
 Specializations: 
 - Web and data management
