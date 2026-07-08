@@ -113,3 +113,9 @@ Funcle
 | Cursor | ChatGPT | Codex AI Agents |  GitHub Copilot |
 |:------:|:-------:|:--------------:|:--------------:|
 | <img src="https://cursor.sh/favicon.ico" title="Cursor" alt="Cursor" width="55" height="55"/> | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://github.com/favicon.ico" title="GitHub Copilot" alt="GitHub Copilot" width="55" height="55"/> |
+
+### Health & Fitness
+
+| Sportsara | 
+|:------:|
+| <img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/> 
