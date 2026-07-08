@@ -21,9 +21,10 @@ Funcle
 - Sportsara - A simple app that estimates personal calories burned per point played through badminton match score reporting for health and fitness concious players
     - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
     - Additionally, player profiles for leaderboard attribute querying i.e.:
+      - Top 5 player pair calories burned
+      - Top 10 player pair games played this week in San Francisco
       - Top 10 player pairs in Los Angeles
       - Top 100 XD California player pairs
-      - #1 player pair in the United States
     - Built for badminton players that love tracking fitness, health and results metrics
  
 - Brief How Sportsara Works:
