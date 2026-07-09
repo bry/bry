@@ -19,7 +19,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
 ### 👨🏻‍💻 Building
 
-- [Sportsara](https://sportsara.com/) - A freemium badminton health tracker for match scores, calories-per-point estimates, player profiles, and leaderboards
+- [Sportsara](https://sportsara.com/) - A freemium badminton health tracker for match scores, calories-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups and organizations
     - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
     - Additionally, player profiles for leaderboard attribute querying i.e.:
       - Top 5 player pair calories burned
