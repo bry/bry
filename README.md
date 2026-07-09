@@ -62,6 +62,7 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
 - "Unite the clans; unite them." - William Wallace, [Braveheart](https://www.youtube.com/watch?v=g2oJhWi5SQ4)
 - "ART when really understood is the province of every human being. It is simply a question of doing things, anything, well. It is not an outside, extra thing. When the artist is alive in any person, whatever his kind of work may be, he becomes an inventive, searching, daring, self-expressing creature. He becomes interesting to other people. He disturbs, upsets, enlightens, and he opens ways for a better understanding. For those who are not artists, who are trying to close the book, he opens it, and shows there are still more pages possible.", The Art Spirit, Robert Henri, Painter, on Creativity Through the Eyes of an Art Student, passages delivered by [Jack Dorsey](https://www.youtube.com/watch?v=wEQawgkCMOU&t=1s)
 - "Focus Determination Earnesty Execution"
+- It's deeply satisfying to create and build, from your minds' eye, useful things into the world, for yourself and/or for others
 
 
 ## 🧰 Languages, Frameworks and Tools
