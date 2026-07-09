@@ -12,6 +12,8 @@ Specializations:
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
+Also a weekly Los Angeles Badminton Meetup Organizer
+
 ### 👨🏻‍💻 Building
 
 - Sportsara - A simple, freemium web app that estimates personal calories burned per point played through badminton match score reporting for health and fitness concious players
