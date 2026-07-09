@@ -27,6 +27,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
       - Top 10 player pairs in Los Angeles
       - Top 100 XD California player pairs
     - Built for badminton players that love tracking fitness, health and results metrics
+    - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: support@sportsara.com I'd love to hear from you! Positive reviews are always welcomed! I usually respond within 24 hours.
  
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
