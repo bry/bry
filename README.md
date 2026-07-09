@@ -2,17 +2,20 @@
 
 ### 📖 About Me
 
-Senior Software Engineer (Myers-Briggs INTJ) / Technical Founder / Maker / Builder
+Technical Founder / Senior Software Engineer / Head of Product / Software Artist / Maker / Builder
+(Myers-Briggs INTJ)
 
 Specializations: 
 - Web and data management
 - Payments & Financial Systems Engineering
 - Scalable Backend Systems (Ruby on Rails + Infrastructure)
 - API Architecture & Integration Systems
+- User-centered product design
+- Product analytics
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
-Also a weekly Los Angeles Badminton Meetup Organizer
+Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
 ### 👨🏻‍💻 Building
 
