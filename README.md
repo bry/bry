@@ -29,7 +29,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
     - Built for badminton players that love tracking fitness, health and results metrics
     - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: support@sportsara.com I'd love to hear from you! Positive reviews are always welcomed! I usually respond within 24 hours.
     - Sportsara is also on Twitter [X](https://x.com/sportsaraapp)
-    - https://sportsara.com/🏸/bryan
+    - My Sportsara badminton player profile: https://sportsara.com/🏸/bryan
  
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
