@@ -9,7 +9,7 @@ Senior Software Engineer / Head of Product / Software Artist / Maker / Builder
 
 [Retired Twitch.tv Streamer](https://www.twitch.tv/kraftybee/about)
 
-⭐️ Newly Boostrapped Technical Founder for Sportsara B2C SaaS (First project git commit: May 13, 2026)
+⭐️ Newly Boostrapped Technical Founder for Sportsara, a freemium B2C SaaS badminton health and fitness tracker (First project git commit: May 13, 2026)
 
 Specializations: 
 - Web and data management
