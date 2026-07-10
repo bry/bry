@@ -115,7 +115,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
 | Cursor | ChatGPT | Codex AI Agents |  GitHub Copilot |
 |:------:|:-------:|:--------------:|:--------------:|
-| <img src="https://cursor.sh/favicon.ico" title="Cursor" alt="Cursor" width="55" height="55"/> | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://github.com/favicon.ico" title="GitHub Copilot" alt="GitHub Copilot" width="55" height="55"/> |
+| <a href="https://cursor.com/referral?code=P1KCZKLAZWL5"><img src="https://cursor.sh/favicon.ico" title="Cursor" alt="Cursor" width="55" height="55"/></a> | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://github.com/favicon.ico" title="GitHub Copilot" alt="GitHub Copilot" width="55" height="55"/> |
 
 ### Health & Fitness
 
