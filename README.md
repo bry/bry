@@ -7,7 +7,7 @@ Funcle
 Senior Software Engineer / Head of Product / Software Artist / Maker / Builder
 (Myers-Briggs INTJ)
 
-[Retired Twitch.tv streamer](https://www.twitch.tv/kraftybee/about)
+[Retired Twitch.tv Streamer](https://www.twitch.tv/kraftybee/about)
 
 ⭐️ Newly Boostrapped Technical Founder for Sportsara (First project git commit: May 13, 2026)
 
