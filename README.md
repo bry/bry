@@ -9,7 +9,7 @@ Senior Software Engineer / Head of Product / Software Artist / Maker / Builder
 
 [Retired Twitch.tv Streamer](https://www.twitch.tv/kraftybee/about)
 
-⭐️ Newly Boostrapped Technical Founder for Sportsara, a freemium B2C SaaS badminton health and fitness tracker (First project git commit: May 13, 2026)
+⭐️ Newly Boostrapped Technical Founder for Sportsara (First project git commit: May 13, 2026)
 
 Specializations: 
 - Web and data management
@@ -25,7 +25,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
 ### 👨🏻‍💻 Building
 
-- [Sportsara](https://sportsara.com/) - A freemium health metrics tracker for match scores, calories-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizations (supplement training tracking)
+- [Sportsara](https://sportsara.com/) - A freemium health metrics tracker for match scores, calories-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizations (B2C SaaS)
     - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
     - Additionally, player profiles for leaderboard attribute querying i.e.:
       - Top 5 player pair calories burned
