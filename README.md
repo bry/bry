@@ -38,7 +38,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Problem: Sports ELO is non-standard across organizations, subjective and a gatekept player rating system. Sportsara is an attempt to make pair level ratings fair, accessible, objective and fun for everyone.
-  - Insight: 1. Individuals can be tournament organizers, administering community match, peer-to-peer community ELO, 2. DB append only records instead of paper or excel maintained records for global player ELO integrity, 3. Tracking personal health & performance metrics is a timeless human desire
+  - Insight: 1. Individuals can be tournament organizers, administering community match, peer-to-peer community ELO, 2. DB append only records instead of paper or excel maintained records for global player ELO integrity, 3. Badminton coaches can track player development metrics and adjust training, 4. Tracking personal health & performance metrics is a timeless human desire
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
