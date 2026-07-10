@@ -26,7 +26,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
       - Top 10 player pair games played this week in San Francisco
       - Top 10 player pairs in Los Angeles
       - Top 100 XD California player pairs
-    - Built for badminton players that love tracking fitness, health and results metrics
+    - Built for badminton players that love tracking fitness, health and performance metrics
     - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: support@sportsara.com I'd love to hear from you! Positive reviews are always welcomed! I usually respond within 24 hours.
     - Sportsara is also on Twitter [X](https://x.com/sportsaraapp)
     - My Sportsara badminton player profile: https://sportsara.com/🏸/bryan
@@ -38,7 +38,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Problem: Sports ELO is non-standard across organizations, subjective and a gatekept player rating system. Sportsara is an attempt to make pair level ratings fair, accessible, objective and fun for everyone.
-  - Insight: 1. Individuals can be tournament organizers, administering community match, peer-to-peer community ELO, 2. DB append only records instead of paper or excel maintained records for global player ELO integrity, 3. Tracking personal health metrics is a timeless human desire
+  - Insight: 1. Individuals can be tournament organizers, administering community match, peer-to-peer community ELO, 2. DB append only records instead of paper or excel maintained records for global player ELO integrity, 3. Tracking personal health & performance metrics is a timeless human desire
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
