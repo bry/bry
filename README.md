@@ -52,10 +52,9 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
 ### 📚 Recent Interests/Reading
 
+- Leading with the Heart by Mike Krzyzewski
 - Hackers & Painters: Big Ideas from the Computer Age by Paul Graham
 - Software Craftsmanship: The New Imperative by Pete McBreen
-- Cosmic Conscioussness by Richard Maurice Bucke
-- Hooked: How to Build Habit-Forming Product by Nir Eyal
 - [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/)
   
 
