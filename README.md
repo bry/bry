@@ -2,12 +2,10 @@
 
 ### 📖 About Me
 
-Senior Software Engineer / Head of Product / Software Artist / Maker / Builder
+Senior Software Engineer / Head of Product / Software Artist / Software Craftsman / Maker / Builder
 (Myers-Briggs INTJ)
 
-[Retired Twitch.tv Streamer](https://www.twitch.tv/kraftybee/about)
-
-⭐️ Newly Boostrapped Technical Solo Founder at Sportsara (First project git commit: May 13, 2026)
+⭐️ Recently: Boostrapped Technical Founder, Sportsara (First project git commit: May 13, 2026)
 
 Specializations: 
 - Web and data management
@@ -79,7 +77,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 - "ART when really understood is the province of every human being. It is simply a question of doing things, anything, well. It is not an outside, extra thing. When the artist is alive in any person, whatever his kind of work may be, he becomes an inventive, searching, daring, self-expressing creature. He becomes interesting to other people. He disturbs, upsets, enlightens, and he opens ways for a better understanding. For those who are not artists, who are trying to close the book, he opens it, and shows there are still more pages possible.", The Art Spirit, Robert Henri, Painter, on Creativity Through the Eyes of an Art Student, passages delivered by [Jack Dorsey](https://www.youtube.com/watch?v=wEQawgkCMOU&t=1s)
 - [Jen Yip, Founder at Lunch Money](https://www.linkedin.com/in/yipjennifer/)
 - Dragon: The Bruce Lee Story, 1993 Movie
-- It's deeply satisfying to create and build, from your minds' eye, useful things into the world, for yourself and/or for others
+- It's deeply satisfying to create and build, from your minds' eye, useful things into the world, for myself and/or for others
 
 
 ## 🧰 Languages, Frameworks and Tools
