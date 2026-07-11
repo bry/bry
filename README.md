@@ -19,7 +19,7 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
 
 I ♥️ badminton.
 
-Also a weekly [Los Angeles Badminton Meetup Organizer](meetup.com/labadminton) for health & exercise
+Also I'm a weekly [Los Angeles Badminton Meetup Organizer](meetup.com/labadminton) for health & exercise
 
 ### 🌱 Building
 
