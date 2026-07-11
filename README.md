@@ -46,6 +46,7 @@ Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
     - Individuals can be tournament organizers, administering a community match - officialized by a software platform, peer-to-peer community ELO,
     - DB append only records instead of paper or excel maintained records for global player ELO integrity,
     - Badminton coaches can track player development metrics and adjust training,
+    - U.S. culture around collegiate badminton clubs and national collegiate competiton is changing and growing and may need software infrastructure support
     - Tracking personal health & performance metrics is a timeless human desire (Apple Health, Google Health, Samsung Health)
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
