@@ -16,6 +16,7 @@ Specializations:
 - Product analytics
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
+I ♥️ badminton.
 
 Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
