@@ -5,7 +5,7 @@
 Senior Software Engineer / Head of Product / Software Artist / Software Craftsman / Maker / Builder
 (Myers-Briggs INTJ)
 
-⭐️ Recently: Boostrapped Technical Founder, Sportsara (First project git commit: May 13, 2026)
+⭐️ Recently: Boostrapped Technical Founder, Sportsara (First project git commit: May 13, 2026) after a few pivots
 
 Specializations: 
 - Web and data management
