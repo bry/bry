@@ -21,7 +21,7 @@ I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem 
 
 Also a weekly Los Angeles Badminton Meetup Organizer for health & exercise
 
-### 👨🏻‍💻 Building
+### 🌱 Building
 
 - [Sportsara](https://sportsara.com/) - A freemium health metrics tracker for match scores, calories-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizations (B2C SaaS)
     - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
