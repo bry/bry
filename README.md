@@ -7,7 +7,7 @@ Senior Software Engineer / Head of Product / Software Artist / Maker / Builder
 
 [Retired Twitch.tv Streamer](https://www.twitch.tv/kraftybee/about)
 
-⭐️ Newly Boostrapped Technical Founder at Sportsara (First project git commit: May 13, 2026)
+⭐️ Newly Boostrapped Technical Solo Founder at Sportsara (First project git commit: May 13, 2026)
 
 Specializations: 
 - Web and data management
