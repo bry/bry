@@ -32,7 +32,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
       - Top 10 player pair games played this week in San Francisco
       - Top 10 player pairs in Los Angeles
       - Top 100 XD California player pairs
-    - Built for badminton players that love tracking fitness, health and performance metrics
+    - Built for badminton players that love tracking fitness, health and performance metrics specific to badminton
     - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: support@sportsara.com I'd love to hear from you! Positive reviews are always welcomed! I usually respond within 24 hours.
     - Sportsara is also on [TwitterX](https://x.com/sportsaraapp)
     - My Sportsara badminton player profile: https://sportsara.com/🏸/bryan
