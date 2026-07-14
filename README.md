@@ -76,7 +76,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ### Health & Fitness Tools
 
-| Sportsara - Badminton Doubles Game Score Tracker | 
+| Sportsara | 
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
