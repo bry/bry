@@ -44,7 +44,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
     - [Optional] A modified ELO rating will be adjusted for the playing pair
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
-  - Problems:
+  - Problems Sportsara solves for people:
     - Personal matches disappear forever
     - Nobody knows how good doubles pairs truly are
     - Orgs have no historical memory
