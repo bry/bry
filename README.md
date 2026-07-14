@@ -5,7 +5,7 @@
 Experienced Software Engineer / Chief Product Officer / Software Artist / Software Craftsman / Maker / Builder
 (Myers-Briggs INTJ)
 
-⭐️ Recently: Founder building Sportsara (First project git commit: May 13, 2026) after a few pivots
+⭐️ Recently: Building Sportsara (First project git commit: May 13, 2026) after a few pivots
 
 Specializations: 
 - Web and data management
