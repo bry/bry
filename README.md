@@ -35,7 +35,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo) and [Reddit](https://www.redd
       - Top 100 XD California player pairs
     - Built for badminton players that love tracking fitness, health and performance metrics specific to badminton
     - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: support@sportsara.com I'd love to hear from you! Positive reviews are always welcomed! I usually respond within 24 hours.
-    - Sportsara is also on [TwitterX @sportsaraapp](https://x.com/sportsaraapp) and [Reddit r/Sportsara](https://www.reddit.com/r/Sportsara)
+    - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
     - My Sportsara badminton player profile: https://sportsara.com/🏸/bryan
  
 - Brief How Sportsara Works:
