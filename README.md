@@ -72,7 +72,13 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 - "If you're a builder or creator, the way to learn is to build and create" - [Amy Jo Kim](https://www.youtube.com/watch?v=dmv-nooN43U)
 
 
-## 🧰 Languages, Frameworks and Tools
+## 🧰 Software Tools, Languages, and Frameworks
+
+### Health & Fitness Tools
+
+| Sportsara - Badminton Doubles Game Score Tracker | 
+|:------:|
+| <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
 ### Languages
 
@@ -123,8 +129,4 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 |:------:|:-------:|:--------------:|:--------------:|
 | <a href="https://cursor.com/referral?code=P1KCZKLAZWL5"><img src="https://cursor.sh/favicon.ico" title="Cursor" alt="Cursor" width="55" height="55"/></a> | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://www.google.com/s2/favicons?sz=64&domain=chatgpt.com" title="ChatGPT" alt="ChatGPT" width="55" height="55"/>  | <img src="https://github.com/favicon.ico" title="GitHub Copilot" alt="GitHub Copilot" width="55" height="55"/> |
 
-### Health & Fitness Tools
 
-| Sportsara | 
-|:------:|
-| <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
