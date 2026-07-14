@@ -44,7 +44,12 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
     - [Optional] A modified ELO rating will be adjusted for the playing pair
 
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
-  - Problem: Sports ELO is non-standard across organizations, subjective and a gatekept player rating system. Sportsara is an attempt to make pair level ratings fair, accessible, objective and fun for everyone.
+  - Problems:
+    - Personal matches disappear forever
+    - Nobody knows how good doubles pairs truly are
+    - Orgs have no historical memory
+    - Sports improvement is invisible (without data, improvement feels random)
+    - Evenly matched pairings & games is missing
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
