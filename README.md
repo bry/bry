@@ -49,7 +49,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
     - Nobody knows how good doubles pairs truly are
     - Orgs have no historical memory
     - Sports improvement is invisible (without data, improvement feels random)
-    - Evenly matched pairings & games is missing
+    - Evenly matched pairings & games is not easy for organizers
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 
 ### 🥇 Hobbies
