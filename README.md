@@ -26,31 +26,21 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 ### 🌱 Building
 
 - [Sportsara](https://sportsara.com/) - A freemium, simple health & performance metrics tracker for match scores, calories-burned-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizations 
-    - Personal Sports Analytics App
-    - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
-    - Additionally, player profiles for leaderboard attribute querying i.e.:
-      - Top 5 player pair calories burned
-      - Top 10 player pair games played this week in San Francisco
-      - Top 10 player pairs in Los Angeles
-      - Top 100 XD California player pairs
-    - Built for badminton players that love tracking fitness, health and performance metrics specific to badminton
-    - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: support@sportsara.com I'd love to hear from you! I usually respond within 24 hours.
-    - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
-    - My Sportsara badminton player profile: https://sportsara.com/🏸/bryan
- 
+  - Problems Sportsara solves for doubles badminton pairs:
+    - Personal matches disappear forever
+    - Nobody knows how good doubles pairs truly are
+    - Orgs have no historical memory
+    - Badminton improvement is invisible (without data, improvement feels random)
+    - Evenly matched pairings & games is not easy to determine for organizers
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
     - An estimated 1 calorie burned per point played will be tallied for an individual
     - [Optional] A modified ELO rating will be adjusted for the playing pair
-
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
-  - Problems Sportsara solves for people:
-    - Personal matches disappear forever
-    - Nobody knows how good doubles pairs truly are
-    - Orgs have no historical memory
-    - Sports improvement is invisible (without data, improvement feels random)
-    - Evenly matched pairings & games is not easy for organizers
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
+- 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: support@sportsara.com I'd love to hear from you! I usually respond within 24 hours.
+  - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
+  - My Sportsara badminton player profile: https://sportsara.com/🏸/bryan
 
 ### 🥇 Hobbies
 
