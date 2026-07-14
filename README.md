@@ -15,8 +15,6 @@ Specializations:
 - User-centered product design
 - Product analytics
 
-### 😎 Vibes
-
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
 I ♥️ badminton.
