@@ -85,6 +85,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 - Dragon: The Bruce Lee Story, 1993 Movie
 - You'll be judged for anything you do either way, like eating even. Go do the thing, go do your thing. Be good, help others, help yourself. Pursue your interests. Keep learning, life long learner, leverage all the skills you've got. Add a little bit at a time to the world or a lot at time, give more than you take, produce more than you consume, rest when resting, produce when producing, throw your hat into the ring, and get into the game, build in public and have lots of fun, enjoy
 - It's deeply satisfying to create and build, from your minds' eye, useful things into the world, for myself and/or for others
+- "If you're a builder or creator, the way to learn is to build and create" - [Amy Jo Kim](https://www.youtube.com/watch?v=dmv-nooN43U)
 
 
 ## 🧰 Languages, Frameworks and Tools
