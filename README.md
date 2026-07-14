@@ -25,7 +25,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ### 🌱 Building
 
-- [Sportsara](https://sportsara.com/) - A freemium, simple health metrics tracker for match scores, calories-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizations 
+- [Sportsara](https://sportsara.com/) - A freemium, simple health & performance metrics tracker for match scores, calories-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizations 
     - Personal Sports Analytics App
     - Optionally, app offers a way for players to opt-in and track badminton doubles players' ELO pair ratings and leaderboards
     - Additionally, player profiles for leaderboard attribute querying i.e.:
