@@ -21,7 +21,7 @@ I ♥️ badminton.
 
 I'm a weekly [Los Angeles Badminton Meetup Organizer](meetup.com/labadminton) for health & exercise
 
-I'm also on [TwitterX](https://x.com/bryanbcabalo)
+I'm also on [TwitterX](https://x.com/bryanbcabalo) and [Reddit](https://www.reddit.com/r/Sportsara)
 
 ### 🌱 Building
 
