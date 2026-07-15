@@ -18,7 +18,7 @@ Specializations:
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
-💛 I’m always looking to connect with badminton players who enjoy supporting early-stage apps and sharing honest feedback. Early Sportsara supporters will receive special profile badges in the app!
+💛 I’m always looking to connect with badminton players who enjoy supporting early-stage apps and sharing honest feedback. Early Sportsara supporters will receive special profile badges in the app as a thank you!
 
 📧 Reach me at bryan@sportsara.com, and feel free to invite me to your group play sessions so we can try Sportsara together.
 
