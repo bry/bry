@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Senior Software Engineer / Product (Myers-Briggs INTJ)
+Senior Software Engineer (Myers-Briggs INTJ)
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com/about) (First project git commit: May 13, 2026) after a few pivots
 
