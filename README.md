@@ -18,9 +18,11 @@ Specializations:
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
-💛 I am always looking for people that love to play badminton and love using/supporting & giving feedback to early app projects (will give Sportsara profile badges in app for early supporters!)
+💛 I’m always looking to connect with badminton players who enjoy supporting early-stage apps and sharing honest feedback. Early Sportsara supporters will receive special profile badges in the app!
 
-📧 Contact me at bryan@sportsara.com and feel free to invite me to your badminton group play sessions to use Sportsara together! (I am a PBCA D player, and Baddix D+ rated player, but I suspect my doubles play strength is stronger now)
+📧 Reach me at bryan@sportsara.com, and feel free to invite me to your group play sessions so we can try Sportsara together.
+
+For reference, I’m currently rated PBCA D and Baddix D+, although I believe my doubles level has improved since those ratings.
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
