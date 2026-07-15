@@ -111,9 +111,9 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflareworkers/cloudflareworkers-original.svg" title="CloudflareWorkers" alt="CloudflareWorkers" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sentry/sentry-original.svg" title="Sentry" alt="Sentry" width="55" height="55"/> | <img src="https://images.stripeassets.com/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" title="Sentry" alt="Sentry" width="55" height="55"/> |
 
 ### Analytics
-| Mixpanel | Plausible |
+| Mixpanel | Google Analytics |
 |:------:|:------:|
-| <img src="https://cdn.brandfetch.io/idr_rhI2FS/theme/dark/id7fueBMn_.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Mixpanel" alt="Mixpanel" width="55" height="55"/> | <img src="https://plausible.io/assets/images/icon/plausible_logo.svg" title="Plausible" alt="Plausible" width="55" height="55"/> |
+| <img src="https://cdn.brandfetch.io/idr_rhI2FS/theme/dark/id7fueBMn_.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Mixpanel" alt="Mixpanel" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="GoogleAnalytics" alt="GoogleAnalytics" width="55" height="55"/> |
 
 ### Operating Systems
 
