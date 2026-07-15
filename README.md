@@ -6,6 +6,9 @@ Software Engineer / Builder (Myers-Briggs INTJ)
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com/about) (First project git commit: May 13, 2026) after a few pivots
 
+💛 I am always looking for people that love to play badminton and love using/supporting & giving feedback to early app projects (will give Sportsara profile badges in app for early supporters!)
+📧 Contact me at bryan@sportsara.com and feel free to invite me to your badminton group play sessions to use Sportsara together! (I am a PBCA D player, and Baddix D+ rated player, but I suspect my doubles play strength is stronger now)
+
 | Sportsara | 
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
