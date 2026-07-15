@@ -22,7 +22,7 @@ Specializations:
 
 📧 Reach me at bryan@sportsara.com, and feel free to invite me to your group play sessions so we can try Sportsara together.
 
-For reference, I’m currently rated PBCA D and Baddix D+, although I believe my doubles level has improved since those ratings.
+📈 For reference, I’m currently rated PBCA D and Baddix D+, although I believe my doubles level has improved since those ratings.
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
