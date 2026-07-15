@@ -6,14 +6,6 @@ Senior Software Engineer (Myers-Briggs INTJ)
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com/about) (First project git commit: May 13, 2026) after a few pivots
 
-Specializations: 
-- Web and data management
-- Payments & Financial Systems Engineering
-- Scalable Backend Systems (Ruby on Rails + Infrastructure)
-- API Architecture & Integration Systems
-- User-centered product design
-- Product analytics
-
 | Sportsara | 
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
