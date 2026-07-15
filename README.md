@@ -2,10 +2,9 @@
 
 ### 📖 About Me
 
-Experienced Software Engineer / Chief Product Officer / Software Artist / Software Craftsman / Maker / Builder
-(Myers-Briggs INTJ)
+Experienced Software Engineer (Myers-Briggs INTJ)
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com/about) (First project git commit: May 13, 2026) after a few pivots
+⭐️ Recently: Founder @[Sportsara](https://sportsara.com/about) (First project git commit: May 13, 2026) after a few pivots
 
 | Sportsara | 
 |:------:|
