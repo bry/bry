@@ -20,7 +20,7 @@ Specializations:
 
 💛 I’m always looking to connect with badminton players who enjoy supporting early-stage apps and sharing honest feedback. Early Sportsara supporters will receive special profile badges in the app as a thank you!
 
-📧 Reach me at bryan@sportsara.com, and feel free to invite me to your group play sessions so we can try Sportsara together.
+📧 Reach me at bryan@sportsara.com, and feel free to invite me to your group play sessions so we can play and try Sportsara together!
 
 📈 For reference, I’m currently rated PBCA D and Baddix D+, although I believe my doubles level has improved since those ratings.
 
