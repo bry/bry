@@ -42,9 +42,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 - Badminton [BadmintonCentral Profile](https://www.badmintoncentral.com/forums/index.php?members/bryanbadminton.141707/#about)
 - Chess (1640 US Chess Federation ELO)
 - Karaoke (not bad, but not good)
-- Bitcoin & Bitcoin Mining [Braiins Mini Miner BMM 101](https://store.braiins.com/products/bmm-101)
-- Mandarin
-- Bachata
+- Bitcoin & Bitcoin Mining
 
 ### 📚 Recent Interests/Reading
 
