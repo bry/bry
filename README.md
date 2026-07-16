@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Senior Software Engineer / Software Artist (Myers-Briggs INTJ)
+Senior Software Engineer / Software Artist / Software System Designer (Myers-Briggs INTJ)
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com/about) after a few other project pivots
 
