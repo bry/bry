@@ -2,19 +2,13 @@
 
 ### 📖 About Me
 
-Senior Software Engineer (Myers-Briggs INTJ)
+Senior Software Engineer / Software Artist (Myers-Briggs INTJ)
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com/about) (First project git commit: May 13, 2026) after a few pivots
 
 | Sportsara | 
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
-
-💛 I’m always looking to connect with badminton players who enjoy supporting early-stage apps and sharing honest feedback. Early Sportsara supporters will receive special profile badges in the app as a thank you!
-
-📧 Reach me at bryan@sportsara.com, and feel free to invite me to your group play sessions so we can play and try Sportsara together!
-
-📈 For reference, I’m currently rated PBCA D (2023) and Baddix D+ (2019), although I believe my doubles level has improved since those ratings.
 
 I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
 
