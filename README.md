@@ -10,10 +10,6 @@ Senior Software Engineer (Myers-Briggs INTJ)
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
-I ♥️ the Ruby and Ruby on Rails open source framework and tooling ecosystem for building web applications.
-
-I ♥️ badminton.
-
 I'm a weekly [Los Angeles Badminton Meetup Organizer](meetup.com/labadminton) for health & exercise
 
 I'm also on [TwitterX](https://x.com/bryanbcabalo) 
