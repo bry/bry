@@ -8,7 +8,7 @@ Senior Software Engineer / Head of Product / Software Architect / Software Artis
 
 | Sportsara | 
 |:------:|
-| <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star.png" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
+| <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star-128x128.webp" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
 I'm a weekly [Los Angeles Badminton Meetup Organizer](meetup.com/labadminton) for health & exercise
 
