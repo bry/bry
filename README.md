@@ -16,7 +16,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ### 🌱 Building
 
-- [Sportsara](https://sportsara.com/) - A freemium, simple health & performance metrics tracker for match scores, calories-burned-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizations 
+- [Sportsara](https://sportsara.com/) - A freemium, simple health & performance metrics tracker for match scores, calories-burned-per-point estimates, player profiles, and leaderboards for badminton doubles players, groups, coaches and organizers 
   - Problems Sportsara solves for doubles badminton pairs:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
     - Nobody knows how good doubles pairs truly are together
