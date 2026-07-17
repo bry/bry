@@ -4,7 +4,7 @@
 
 Senior Software Engineer/Architect/Designer/Artist / Head of Product (Myers-Briggs INTJ)
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com/about) for doubles badminton players, coaches and meetup organizers
+⭐️ Recently: Building [Sportsara](https://sportsara.com/about) for doubles badminton club players, coaches and meetup organizers
 
 | Sportsara | 
 |:------:|
