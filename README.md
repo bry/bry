@@ -25,7 +25,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
     - Evenly matched pairings & games is not easy to determine for organizers
 - Brief How Sportsara Works:
   - For every badminton match point recorded: 
-    - An estimated 1 calorie burned per point played will be tallied for an individual
+    - An estimated 1 calorie burned per point played will be tallied for each player
     - [Optional] A modified ELO rating will be adjusted for the playing pair
   - The aim is a standard progress and accountability app for a badmiton playing exercise pair
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
