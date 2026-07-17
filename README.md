@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Senior Software Engineer / Head of Product / Software Architect / Software Artist (Myers-Briggs INTJ)
+Senior Software Engineer / Architect / Designer / Artist / Head of Product (Myers-Briggs INTJ)
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com/about) for doubles badminton meetup organizers, coaches and players
 
