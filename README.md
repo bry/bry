@@ -4,7 +4,7 @@
 
 Senior Software Engineer (Myers-Briggs INTJ)
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com), a personal health & performance metrics tracker for doubles badminton club players, coaches and organizers
+⭐️ Recently: Building [Sportsara](https://sportsara.com), a personal health & performance tracker for doubles badminton club players, coaches and organizers
 
 | Sportsara | 
 |:------:|
@@ -16,7 +16,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ### 🌱 Building
 
-- [Sportsara](https://sportsara.com/) - A health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
+- [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
   - Problems Sportsara solves for doubles badminton pairs:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
     - Nobody knows how good doubles pairs truly are together
