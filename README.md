@@ -2,7 +2,9 @@
 
 ### 📖 About Me
 
-Senior Software Engineer (Myers-Briggs INTJ) Web and Database Applications, Platform Engineering
+Senior Software Engineer (Myers-Briggs INTJ) 
+
+Platform Engineering, Web and Database Applications 
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a personal health & performance tracker for doubles badminton club players, coaches and organizers
 
