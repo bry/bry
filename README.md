@@ -70,8 +70,6 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ## 🧰 Software Tools, Languages, and Frameworks
 
-First computer was my dad's Commodore 64, my first programming language was QBasic (goto unstructured spaghetti code, those were the dayz)
-
 ### Health & Fitness Tools
 
 | Sportsara | 
