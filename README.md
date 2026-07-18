@@ -34,7 +34,8 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
     - Total games played per month
     - Total games Count per player
     - Total games Count per player pair
-    - Total points scored per player pair 
+    - Total points scored per player pair
+    - etc. 
 Active Months
     - [Optional] A modified ELO rating will be adjusted for the playing pair
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
