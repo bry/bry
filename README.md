@@ -32,10 +32,10 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I read and reply to my own email. I'd love to hear from you.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
-  - My Sportsara badminton player profile:
+  - My shareable Sportsara badminton player profile:
     - https://sportsara.com/🏸/bryan
    
-  - Can also use URLs:
+  - Can also use the following URLs for badminton:
     - https://sportsara.com/badminton/bryan
     - https://sportsara.com/b/bryan
 
