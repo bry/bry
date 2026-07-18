@@ -64,10 +64,14 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 - "Unite the clans; unite them." - William Wallace, [Braveheart](https://www.youtube.com/watch?v=g2oJhWi5SQ4)
 - "ART when really understood is the province of every human being. It is simply a question of doing things, anything, well. It is not an outside, extra thing. When the artist is alive in any person, whatever his kind of work may be, he becomes an inventive, searching, daring, self-expressing creature. He becomes interesting to other people. He disturbs, upsets, enlightens, and he opens ways for a better understanding. For those who are not artists, who are trying to close the book, he opens it, and shows there are still more pages possible.", The Art Spirit, Robert Henri, Painter, on Creativity Through the Eyes of an Art Student, passages delivered by [Jack Dorsey](https://www.youtube.com/watch?v=wEQawgkCMOU&t=1s)
 - Dragon: The Bruce Lee Story, 1993 Movie
+- 90s AOL progz MaGuS Fate X punters
 - "If you're a builder or creator, the way to learn is to build and create" - [Amy Jo Kim](https://www.youtube.com/watch?v=dmv-nooN43U)
 
 
+
 ## 🧰 Software Tools, Languages, and Frameworks
+
+First computer was my dad's Commodore 64, my first programming language was QBasic (goto unstructured spaghetti code, those were the dayz)
 
 ### Health & Fitness Tools
 
