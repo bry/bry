@@ -32,8 +32,8 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
     - An estimated 1 calorie burned per point played will be tallied for each player
     - Total points played per month
     - Total games played per month
-    - Total Games Count per player
-    - Total Games Count per player pair
+    - Total games Count per player
+    - Total games Count per player pair
     - Total points scored per player pair 
 Active Months
     - [Optional] A modified ELO rating will be adjusted for the playing pair
