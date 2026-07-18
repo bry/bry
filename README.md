@@ -54,7 +54,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 - The Mom Test by Rob Fitzpatrick
 - Hackers & Painters: Big Ideas from the Computer Age by Paul Graham
 - Software Craftsmanship: The New Imperative by Pete McBreen
-- [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/)
+- [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/) + WebP Image Formatting
   
 
 ### 💡 Inspiration
