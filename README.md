@@ -33,6 +33,8 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My Sportsara badminton player profile:
     - https://sportsara.com/🏸/bryan
+   
+  - Can also use URLs:
     - https://sportsara.com/badminton/bryan
     - https://sportsara.com/b/bryan
 
@@ -47,6 +49,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 ### 📚 Recent Interests/Reading
 
 - Leading with the Heart by Mike Krzyzewski
+- The Mom Test by Rob Fitzpatrick
 - Hackers & Painters: Big Ideas from the Computer Age by Paul Graham
 - Software Craftsmanship: The New Imperative by Pete McBreen
 - [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/)
