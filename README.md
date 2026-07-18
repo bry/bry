@@ -29,7 +29,6 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
   - For every badminton match point recorded: 
     - An estimated 1 calorie burned per point played will be tallied for each player
     - [Optional] A modified ELO rating will be adjusted for the playing pair
-  - The aim is a standard progress and game score app for a badmiton playing exercise pair
   - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I read and reply to my own email. I'd love to hear from you.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
