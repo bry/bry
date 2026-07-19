@@ -20,6 +20,8 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ### 🌱 Building
 
+[![Sportsara profile](https://sportsara.com/logo.png](https://media.sportsara.com/site/default-profile-desktop-v1.webp)](https://sportsara.com)
+
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
   - Problems Sportsara solves for doubles badminton pairs:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
