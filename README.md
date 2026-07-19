@@ -128,9 +128,9 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ### Tools
 
-| Vim  | Git | Slack | Linear
-|:--:|:--------:|:---:|:---:|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> | <img src="https://cdn.brandfetch.io/iduDa181eM/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Linear" alt="Linear" width="55" height="55"/> 
+| Vim  | Git | Slack | Linear | Gimp
+|:--:|:--------:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="55" height="55"/> | <img src="https://cdn.brandfetch.io/iduDa181eM/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" title="Linear" alt="Linear" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="55" height="55"/> 
 
 
 
