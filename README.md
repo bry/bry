@@ -14,7 +14,7 @@ Platform Engineering, Web and Database Applications
 
 I ❤️ Ruby and the Ruby on Rails web application framework
 
-I'm a weekly [Los Angeles Badminton Meetup Organizer](meetup.com/labadminton) for health & exercise
+I'm a weekly [Los Angeles Badminton Meetup Organizer](meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
 I'm also on [TwitterX](https://x.com/bryanbcabalo) 
 
