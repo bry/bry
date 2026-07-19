@@ -20,8 +20,6 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 
 ### 🌱 Building
 
-[![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp)](https://sportsara.com)
-
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
   - Problems Sportsara solves for doubles badminton pairs:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
@@ -29,6 +27,9 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
     - Orgs have no easily accessible history of games
     - Badminton improvement is invisible (without data, improvement feels random)
     - Evenly matched pairings & games is not easy to determine for organizers
+
+[![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp)](https://sportsara.com)
+
 - How Sportsara Works:
   - For every badminton match point recorded: 
     - An estimated 1 calorie burned per point played will be tallied for each player
