@@ -58,6 +58,7 @@ I'm also on [TwitterX](https://x.com/bryanbcabalo)
 - Chess (1640 US Chess Federation ELO)
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining
+- Tournament Poker Strategy
 
 ### 📚 Recent Interests/Reading
 
