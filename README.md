@@ -26,8 +26,6 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - Badminton improvement is invisible (without data, improvement feels random)
     - Evenly matched pairings & games is not easy to determine for organizers
 
-  - First 1000 people that signup will get an honorary Sportsara Founder badge in their player profile
-
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp)](https://sportsara.com)
 
 - How Sportsara Works:
