@@ -10,7 +10,7 @@ Platform Engineering, Web and Database Applications
 
 🛠️ Built with the [Ruby on Rails](https://rubyonrails.org/) web application framework and [SOLID Fun™️](https://www.youtube.com/watch?v=sEv2AYJiz1U)
 
-| Sportsara GStar | 
+| Sportsara Gold Star | 
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star-128x128.webp" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
