@@ -15,8 +15,6 @@ Platform Engineering, Web and Database Applications
 
 I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
-I'm also on [TwitterX](https://x.com/bryanbcabalo) 
-
 ### 🌱 Building
 
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
