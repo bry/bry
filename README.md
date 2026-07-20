@@ -41,6 +41,13 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - [Optional] Personal monthly goal settings and views
     - [Optional] A modified ELO rating will be adjusted for the playing pair
       - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
+  - For coaches:
+    - Track badminton students game stats and determine what they need to work on at their level
+  - For organizers:
+    - Track badminton exercise focused stats like calories burned and games played
+    - Track badminton player strength level for tournament placement
+  - For doubles players:
+    - Increase personal and partner doubles pair stats and progress with each game score reported
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I read and reply to my own email. I'd love to hear from you.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My shareable Sportsara badminton player profile:
