@@ -8,7 +8,6 @@ Platform Engineering, Web and Database Applications
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a personal health & performance tracker for doubles badminton club players, coaches and organizers 
 
-🛠️ Built with the [Ruby on Rails](https://rubyonrails.org/) web application framework, and [SOLID Fun™️](https://www.youtube.com/watch?v=sEv2AYJiz1U)
 | Sportsara | 
 |:------:|
 | <a href="https://sportsara.com/"><img src="https://media.sportsara.com/site/sportsara-sporty-star-128x128.webp" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
