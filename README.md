@@ -66,6 +66,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 - Hackers & Painters: Big Ideas from the Computer Age by Paul Graham
 - Software Craftsmanship: The New Imperative by Pete McBreen
 - [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/) + WebP Image Formatting
+- Rails 8 SOLID queue, cache, cable
   
 
 ### 💡 Inspiration
