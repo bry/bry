@@ -53,7 +53,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - Turn club play into a community people can see, measure, and grow
   - For **doubles partners**:
     - Every game strengthens your partnership
-- 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I read and reply to my own email. I'd love to hear from you.
+- 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My shareable Sportsara badminton player profile:
     - https://sportsara.com/🏸/bryan
