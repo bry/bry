@@ -28,8 +28,10 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - Badminton improvement is invisible (without data, improvement feels random)
     - Evenly matched pairings & games is not easy to determine for organizers
 
-
+#### Weekly Games Played Streak Bar
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp)](https://sportsara.com)
+
+#### Shareable Player Progress
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp)](https://sportsara.com)
 
 - How Sportsara Works:
