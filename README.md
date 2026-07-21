@@ -20,6 +20,8 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 
 ### 🌱 Building
 
+[![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp)](https://sportsara.com)
+
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
   - Problems Sportsara solves for doubles badminton pairs:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
