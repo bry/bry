@@ -67,6 +67,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 ### 🥇 Hobbies
 
 - Programming
+- Scalable Systems Design
 - I ❤️ Badminton [BadmintonCentral Profile](https://www.badmintoncentral.com/forums/index.php?members/bryanbadminton.141707/#about)
 - Chess (1640 US Chess Federation ELO)
 - Karaoke (not bad, but not good)
