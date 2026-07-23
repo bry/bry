@@ -48,11 +48,11 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - [Optional] A modified ELO rating will be adjusted for the playing pair
       - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
   - For **coaches**:
-    - Help every student see their progress, use Sportsara as a supplement to tracking student practice games outside of training sessions
+    - Use Sportsara to track students’ practice games between training sessions and help them see their progress over time
   - For **organizers**:
-    - Turn club play into a community people can see, measure, and grow
+    - Make club activity visible, measurable, and easier to grow together
   - For **doubles partners**:
-    - Every game strengthens your partnership
+    - Every game strengthens your partnership and shows how you’re improving together
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My shareable Sportsara badminton player profile:
