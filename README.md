@@ -32,7 +32,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp)](https://sportsara.com/badminton/bryan)
 
 #### Shareable Player Progress
-[![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp)](https://sportsara.com)
+[![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp?v=1)](https://sportsara.com)
 
 - How Sportsara Works:
   - For every badminton match point recorded: 
