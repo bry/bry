@@ -6,7 +6,7 @@ Senior Software Engineer (Myers-Briggs INTJ)
 
 Product & Platform Engineering, Web and Database Applications 
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com), a free personal health & performance app tracker for doubles badminton club players, coaches and organizers (sportsara.com is mobile phone view friendly)
+⭐️ Recently: Building [Sportsara](https://sportsara.com), a free personal health & performance app tracker for active doubles badminton club players, coaches and organizers (sportsara.com is mobile phone view friendly)
 
 🛠️ Built with the [Ruby on Rails](https://rubyonrails.org/) web application framework and [SOLID Fun™️](https://www.youtube.com/watch?v=sEv2AYJiz1U)
 
