@@ -23,7 +23,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
     - Nobody knows how good doubles pairs truly are together
     - Organizers struggle to create evenly matched games
-    - Peronsal improvement is difficult to see
+    - Personal improvement is difficult to see
     - Badminton groups have no reliable history
 
 #### Weekly Games Played Streak Bar
