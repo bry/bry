@@ -24,9 +24,9 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
   - Problems Sportsara solves for doubles badminton pairs:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
     - Nobody knows how good doubles pairs truly are together
-    - Orgs have no easily accessible history of games
-    - Badminton improvement is invisible (without data, improvement feels random)
-    - Evenly matched pairings & games is not easy to determine for organizers
+    - Organizers struggle to create evenly matched games
+    - Peronsal improvement is difficult to see
+    - Badminton groups have no reliable history
 
 #### Weekly Games Played Streak Bar
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp)](https://sportsara.com/badminton/bryan)
