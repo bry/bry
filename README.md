@@ -33,7 +33,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp?v=1)](https://sportsara.com)
 
 - How Sportsara Works:
-  - For every badminton match point recorded: 
+  - For every badminton game final scores recorded: 
     - An estimated 1 calorie burned per point played will be tallied for each player
     - Total points played per month
     - Total games played per month
