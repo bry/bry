@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Senior Software Engineer (Myers-Briggs INTJ) · Indie Developer
+Senior Software Engineer (Myers-Briggs INTJ) · Indie Developer · Builder
 
 🧱 Product Management & Platform Engineering, Web and Database Applications 
 
