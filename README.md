@@ -4,7 +4,7 @@
 
 Senior Software Engineer (Myers-Briggs INTJ) · Indie Developer
 
-Product Management & Platform Engineering, Web and Database Applications 
+🧱 Product Management & Platform Engineering, Web and Database Applications 
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a freemium personal health & performance app tracker for active doubles badminton club players, coaches and organizers (sportsara.com is mobile phone view friendly)
 
