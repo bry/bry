@@ -27,7 +27,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - Badminton groups have no reliable history
 
 #### Weekly Games Played Streak Bar
-[![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=1)](https://sportsara.com/badminton/bryan)
+[![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=2)](https://sportsara.com/badminton/bryan)
 
 #### Shareable Player Progress
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp?v=1)](https://sportsara.com)
