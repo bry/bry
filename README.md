@@ -51,6 +51,11 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
     - Make club activity visible, measurable, and easier to grow together
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
+- Sportsara Core Insights & Innovation
+  1. Anyone can organize games or ELO tournaments through software platform support
+  2. Players want an easy way to track performance, health, scores, and their sports story.
+  3. Collegiate badminton is growing, with more college clubs forming.
+  4. Sportsara lets individuals organize IRL ELO matches without a traditional tournament organizer
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My shareable Sportsara badminton player profile:
