@@ -77,6 +77,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 
 ### 📚 Recent Interests/Reading
 
+- The Creative Act: A Way of Being by Rick Rubin
 - Leading with the Heart by Mike Krzyzewski
 - The Mom Test by Rob Fitzpatrick
 - Hackers & Painters: Big Ideas from the Computer Age by Paul Graham
