@@ -97,6 +97,9 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 - Dragon: The Bruce Lee Story, 1993 Movie
 - "If you're a builder or creator, the way to learn is to build and create" - [Amy Jo Kim](https://www.youtube.com/watch?v=dmv-nooN43U)
 - "Great things take time" -Suddenly Spicy Software™️
+- "Often, the most innovative ideas come from those who master the rules to such a degree that they can see past them or from those who never learned them at all." - Rick Rubin, The Creative Act: A Way of Being
+
+  
 
 
 
