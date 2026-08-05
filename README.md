@@ -33,7 +33,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 
 - How to Use Sportsara:
   1. Setup Sportsara, then play a doubles match IRL
-  2. Enter scores & finalize game
+  2. Enter scores & finalize game in Sportsara
   3. Enjoy your increased health & performance stats & profile
 - How Sportsara Works:
   - For every badminton game final scores recorded: 
