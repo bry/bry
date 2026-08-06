@@ -60,6 +60,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
   3. Players want an easy way to track performance, health, scores, and their sports story
   4. Collegiate badminton is growing, with more college clubs forming, your favorite sport stays with you for life
   5. Sportsara enables individuals to organize IRL ELO games without a traditional tournament organizer
+  6. AI on the rise increases productivity, freeing up people to pursue more recreational or competitive sports
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My shareable Sportsara badminton player profile:
