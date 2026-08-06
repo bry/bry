@@ -102,7 +102,7 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 - "ART when really understood is the province of every human being. It is simply a question of doing things, anything, well. It is not an outside, extra thing. When the artist is alive in any person, whatever his kind of work may be, he becomes an inventive, searching, daring, self-expressing creature. He becomes interesting to other people. He disturbs, upsets, enlightens, and he opens ways for a better understanding. For those who are not artists, who are trying to close the book, he opens it, and shows there are still more pages possible.", The Art Spirit, Robert Henri, Painter, on Creativity Through the Eyes of an Art Student, passages delivered by [Jack Dorsey](https://www.youtube.com/watch?v=wEQawgkCMOU&t=1s)
 - Dragon: The Bruce Lee Story, 1993 Movie
 - "If you're a builder or creator, the way to learn is to build and create" - [Amy Jo Kim](https://www.youtube.com/watch?v=dmv-nooN43U)
-- "Great things take time" -Suddenly Spicy Software™️
+- "Great things take time" -Jisoo, Suddenly Spicy™️ Software
 - "Often, the most innovative ideas come from those who master the rules to such a degree that they can see past them or from those who never learned them at all." - Rick Rubin, The Creative Act: A Way of Being
 
   
