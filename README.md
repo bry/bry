@@ -83,6 +83,8 @@ I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadmi
 ### 📚 Recent Interests/Reading
 
 - Fooled by Randomness by Nassim Nicholas Taleb
+- Coaching Badminton 101 by Gong Chen & Carol Chen
+- Badminton: Steps to Success by Tony Grice
 - The Creative Act: A Way of Being by Rick Rubin
 - Leading with the Heart by Mike Krzyzewski
 - The Mom Test by Rob Fitzpatrick
