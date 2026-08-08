@@ -23,7 +23,6 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
     - Organizers struggle to create evenly matched games
     - Personal improvement is difficult to see
     - Badminton groups have no reliable history
-    - Prize money tournament entry sandbagging in badminton is a widespread problem reported by doubles tournament players
 
 #### Weekly Games Played Streak Bar
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=2)](https://sportsara.com/badminton/bryan)
