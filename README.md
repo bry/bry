@@ -12,7 +12,7 @@ Senior Software Engineer (Myers-Briggs INTJ) · Indie Developer · Software Tool
 |:------:|
 | <a href="https://sportsara.com/about"><img src="https://media.sportsara.com/site/sportsara-sporty-star-128x128.webp" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
-I'm a weekly [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
+I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
 ### 🌱 Building
 
