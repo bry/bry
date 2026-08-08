@@ -55,12 +55,11 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
 - Sportsara Core Insights & Innovation
-  1. People already track health and performance metrics in running, jogging, biking, but platforms are not adapted for sports and distributed ELO
-  2. Anyone can organize games or ELO tournaments through software platform support
-  3. Players want an easy way to track performance, health, scores, and their sports story
-  4. Collegiate badminton is growing, with more college clubs forming, your favorite sport stays with you for life
-  5. Sportsara enables individuals to organize IRL ELO games without a traditional tournament organizer
-  6. AI on the rise increases productivity, freeing up people to pursue more recreational or competitive sports
+  1. People already track health and performance metrics in running, jogging, biking
+  2. Players want an easy way to track performance, health, scores, and their sports story
+  3. Your favorite sport stays with you for life
+  4. Sportsara enables individuals to organize IRL ELO result recorded verified games without a traditional tournament organizer
+  5. AI on the rise increases productivity, freeing up people to pursue more recreational or competitive sports
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My shareable Sportsara badminton player profile:
