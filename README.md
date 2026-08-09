@@ -31,9 +31,10 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp?v=2)](https://sportsara.com)
 
 - How to Use Sportsara:
-  1. Setup a Sportsara game, then play a doubles game IRL
-  2. Enter scores & finalize game in Sportsara
-  3. Enjoy
+  1. Setup a game
+  2. Play the game IRL
+  3. Enter final game scores in Sportsara
+  4. Enjoy updated anlaytics & sports profile
 - How Sportsara Works:
   - For every badminton game final scores recorded: 
     - An estimated 1 calorie burned per point played will be tallied for each player
