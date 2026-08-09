@@ -33,7 +33,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
 - How to Use Sportsara:
   1. Setup a game
   2. Play the game IRL
-  3. Enter final game scores in Sportsara
+  3. Record final game scores in Sportsara
   4. Enjoy updated anlaytics & sports profile
 - How Sportsara Works:
   - For every badminton game final scores recorded: 
