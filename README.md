@@ -31,7 +31,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp?v=2)](https://sportsara.com)
 
 - How to Use Sportsara:
-  1. Setup Sportsara, then play a doubles match IRL
+  1. Setup a Sportsara game, then play a doubles game IRL
   2. Enter scores & finalize game in Sportsara
   3. Enjoy
 - How Sportsara Works:
