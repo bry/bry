@@ -25,6 +25,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
     - Organizers struggle to create evenly matched games
     - Personal improvement is difficult to see
     - Badminton groups have no reliable history
+    - Help prevent muscle loss and osteoporosis later in life with weekly goals and doubles badminton activity
 
 #### Weekly Games Played Streak Bar
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=2)](https://sportsara.com/badminton/bryan)
