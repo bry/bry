@@ -76,7 +76,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
 
 #### Main
 - Programming
-- I ❤️ Badminton [BadmintonCentral Profile](https://www.badmintoncentral.com/forums/index.php?members/bryanbadminton.141707/#about)
+- I ❤️ Badminton [BadmintonCentral Profile](https://www.badmintoncentral.com/forums/index.php?members/bryanbadminton.141707/#about) (Technical Fundamentals: Footwork + Racket Skills, Doubles Strategy)
 - Scalable Systems Design
 
 #### Life
