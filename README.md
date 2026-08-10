@@ -26,6 +26,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
     - Personal improvement is difficult to see
     - Badminton groups have no reliable history
     - Without weekly consistent activity, aging gradually takes away muscle mass and bone density, raising the risk of muscle atrophy, osteoporosis, and lost mobility in older ages. Sportsara helps players build weekly badminton habits that support lifelong strength, healthier bones, and independence
+    - The rise of the computer, internet, social media and now AI partially contribute to the decline in human in person to person connection
 
 #### Weekly Games Played Streak Bar
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=2)](https://sportsara.com/badminton/bryan)
