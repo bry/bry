@@ -76,7 +76,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
 - Programming
 - Scalable Systems Design
 - I ❤️ Badminton [BadmintonCentral Profile](https://www.badmintoncentral.com/forums/index.php?members/bryanbadminton.141707/#about)
-- Chess (1640 US Chess Federation ELO)
+- Chess (USCF 1640, 2003)
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining
 - Tournament Poker Strategy
