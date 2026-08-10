@@ -25,7 +25,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
     - Organizers struggle to create evenly matched games
     - Personal improvement is difficult to see
     - Badminton groups have no reliable history
-    - Help prevent muscle loss and osteoporosis later in life with weekly doubles badminton activity goal setting and tracking
+    - Without weekly consistent activity, aging gradually takes away muscle mass and bone density, raising the risk of weakness, osteoporosis, and lost mobility. Sportsara helps players build weekly badminton habits that support lifelong strength, healthier bones, and independence
 
 #### Weekly Games Played Streak Bar
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=2)](https://sportsara.com/badminton/bryan)
