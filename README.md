@@ -88,7 +88,7 @@ Modus Operandi: Building a strong life and always looking for people with whom w
 - I ❤️ Badminton [BadmintonCentral Profile](https://www.badmintoncentral.com/forums/index.php?members/bryanbadminton.141707/#about) (Technical Fundamentals: Footwork + Racket Skills, Doubles Strategy)
 - Scalable Systems Design
 
-#### Life
+#### Side
 - Chess (USCF 1640, 2003)
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining (Clean Money)
