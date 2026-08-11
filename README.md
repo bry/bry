@@ -18,7 +18,7 @@
 
 I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
-Personal Conatus: To expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
+Conatus: To expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
 
 
 ### 🌱 Building
