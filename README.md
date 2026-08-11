@@ -16,7 +16,7 @@
 |:------:|
 | <a href="https://sportsara.com/about"><img src="https://media.sportsara.com/site/sportsara-sporty-star-128x128.webp" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
-🏸 I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
+🏸 [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
 📝 Conatus: To expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
 
