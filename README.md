@@ -94,6 +94,9 @@
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining (Clean Money)
 - Tournament Poker Strategy (Applied Stats & Human Psychology)
+- Boxing (Effective Aggression, Clean Punching, Ring Generalship, Defense)
+- Bachata (Retired)
+- Twitch.tv/kraftybee (Retired)
 
 ### 📚 Recent Interests/Reading
 
