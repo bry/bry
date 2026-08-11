@@ -62,7 +62,7 @@
     - [Optional] A modified ELO rating will be adjusted for the playing pair
       - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
   - For **coaches**:
-    - Use Sportsara to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
+    - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
   - For **organizers**:
     - Make club activity visible, measurable, and easier to grow together
   - For **doubles partners**:
