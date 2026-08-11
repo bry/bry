@@ -96,7 +96,7 @@
 - Tournament Poker Strategy (Applied Stats & Human Psychology)
 - Boxing (Effective Aggression, Clean Punching, Ring Generalship, Defense)
 - Bachata (Retired)
-- [Twitch.tv/kraftybee](Twitch.tv/kraftybee) (Retired)
+- [https://www.twitch.tv/kraftybee](Twitch.tv/kraftybee) (Retired)
 
 ### 📚 Recent Interests/Reading
 
