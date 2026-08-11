@@ -97,6 +97,10 @@
 - Boxing (Effective Aggression, Clean Punching, Ring Generalship, Defense)
 - Bachata (Retired)
 - [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee) (Retired)
+- Video Games:
+  - World of Warcraft | Retribution Paladin | Raid Crew DPS Leader (2007-2012 Retired)
+  - SC2 | Protoss | 1v1 Platinum (Retired)
+  - Rust | Solo | Rustrician
 
 ### 📚 Recent Interests/Reading
 
