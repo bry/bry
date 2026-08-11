@@ -10,7 +10,7 @@
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a free personal health & performance app tracker for active doubles badminton club players, coaches and organizers with optional premium upgrades
 
-🏋️‍♂️ Sportsara empowers people to set their own goals, pursue their ambitions, and improve their health on their own terms
+🏋️‍♂️ Sportsara empowers people to set & track their own goals, pursue their ambitions, and improve their health on their own terms
 
 | Sportsara | 
 |:------:|
