@@ -20,6 +20,8 @@
 
 📝 Conatus: To expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
 
+💪 Modus Operandi: Keep building a stronger, more joyful life, and seek people with whom I can grow, thrive, and have fun along the way
+
 
 ### 🌱 Building
 
