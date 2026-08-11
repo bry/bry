@@ -16,6 +16,8 @@ Myers-Briggs INTJ
 
 I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
+Building a strong life and always looking for people with whom we can become stronger together
+
 ### 🌱 Building
 
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
