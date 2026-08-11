@@ -2,7 +2,9 @@
 
 ### 📖 About Me
 
-🧑🏻‍💻 Senior Software Engineer · Indie Developer · Software Tool Maker · Software Craftsman · Software Artist · Builder · Creator · Competitor · Connector · Teacher
+🧑🏻‍💻 Senior Software Engineer 
+
+👨🏻‍🏫 Indie Developer · Software Tool Maker · Software Craftsman · Software Artist · Builder · Creator · Competitor · Connector
 
 🙆🏻‍♂️ Myers-Briggs INTJ
 
