@@ -77,6 +77,7 @@ I'm a [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) f
 ### 🥇 Hobbies
 
 #### Main
+- Personal Finance [The Money Guy Show](https://www.youtube.com/@MoneyGuyShow)
 - Programming
 - I ❤️ Badminton [BadmintonCentral Profile](https://www.badmintoncentral.com/forums/index.php?members/bryanbadminton.141707/#about) (Technical Fundamentals: Footwork + Racket Skills, Doubles Strategy)
 - Scalable Systems Design
