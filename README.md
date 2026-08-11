@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-Senior Software Engineer · Indie Developer · Software Tool Maker · Software Artist · Builder
+Senior Software Engineer · Indie Developer · Software Tool Maker · Software Craftsman · Software Artist · Builder
 
 Myers-Briggs INTJ
 
