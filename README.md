@@ -6,7 +6,7 @@
 
 🏸 Badminton Meetup Organizer
 
-🚀 Founder of Sportsara
+🚀 Founder of [Sportsara](https://sportsara.com)
 
 I create technology that helps people compete, improve, and connect.
 
