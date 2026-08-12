@@ -4,8 +4,6 @@
 
 🧑🏻‍💻 Senior Software Engineer 
 
-👨🏻‍🏫 Indie Developer · Software Tool Maker · Software Craftsman · Software Artist · Builder · Creator · Competitor · Connector
-
 🙆🏻‍♂️ Myers-Briggs INTJ
 
 🧱 Product Management & Platform Engineering, Web and Database Applications 
