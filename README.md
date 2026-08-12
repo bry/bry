@@ -3,6 +3,10 @@
 ### 📖 About Me
 
 🧑🏻‍💻 Senior Software Engineer 
+🏸 Badminton Meetup Organizer
+🚀 Founder of Sportsara
+
+I create technology that helps people compete, improve, and connect.
 
 🙆🏻‍♂️ Myers-Briggs INTJ
 
