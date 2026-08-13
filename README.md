@@ -62,8 +62,8 @@ I create technology that helps people compete, improve, and connect.
     - Active months
     - etc.
     - [Optional] Personal monthly goal settings and views
-    - [Optional] A modified ELO rating will be adjusted for the playing pair
-      - Inspo: [ELO Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
+    - [Optional] A modified Elo rating will be adjusted for the playing pair
+      - Inspo: [Elo Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
   - For **coaches**:
     - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
   - For **organizers**:
@@ -74,7 +74,7 @@ I create technology that helps people compete, improve, and connect.
   1. People already track health and performance metrics in running, jogging, biking
   2. Players want an easy way to track performance, health, scores, and their sports story
   3. Your favorite sport stays with you for life
-  4. Sportsara enables individuals to organize IRL ELO result recorded verified games without a traditional tournament organizer
+  4. Sportsara enables individuals to organize IRL Elo result recorded verified games without a traditional tournament organizer
   5. AI on the rise increases productivity, freeing up people to pursue more recreational or competitive sports
   6. (My opinion) Sports is one of the last bastions for human to human connection outside family and friends, and better than boring jogging for health outcomes (jogging is great, don't get me wrong tho! I ran marathons!)
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
