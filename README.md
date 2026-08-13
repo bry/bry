@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Senior Software Engineer 
 
-🚀 Building [Sportsara](https://sportsara.com)
+🚀 Building [Sportsara](https://sportsara.com/about)
 
 I create technology that helps people compete, improve, and connect.
 
