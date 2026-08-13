@@ -99,7 +99,7 @@ I create technology that helps people compete, improve, and connect.
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining (Clean Money)
 - Tournament Poker Strategy (Applied Stats & Human Psychology)
-- Boxing (Effective Aggression, Clean Punching, Ring Generalship, Defense)
+- Boxing (Workouts, mitwork)
 - Bachata (Retired)
 - [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee) (Retired)
 - Video Games:
