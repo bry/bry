@@ -50,7 +50,7 @@ I create technology that helps people compete, improve, and connect.
   2. Play the game IRL
   3. Record final game scores in Sportsara
   
-  📊 Enjoy updated anlaytics & sports profile
+  📊 Enjoy updated personal anlaytics & sports profile
 - How Sportsara Works:
   - For every badminton game final scores recorded: 
     - An estimated 1 calorie burned per point played will be tallied for each player
