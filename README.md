@@ -4,6 +4,8 @@
 
 🧑🏻‍💻 Senior Software Engineer 
 
+📋 Badminton Head Coach
+
 🚀 Creator of [Sportsara](https://sportsara.com)
 
 I create technology that helps people compete, improve, and connect.
