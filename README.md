@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Senior Software Engineer 
 
-🚀 Creator of [Sportsara](https://sportsara.com/about)
+🚀 Creator of [Sportsara](https://sportsara.com)
 
 I create technology that helps people compete, improve, and connect.
 
