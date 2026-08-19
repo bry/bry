@@ -14,7 +14,7 @@ I create technology that helps athletes compete, improve, connect, and earn thro
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a free platform where doubles badminton players track their health and performance, build their player profile, and earn through coaching, donations, merchandise, and more, with optional premium upgrades
 
-🏋️‍♂️ [Sportsara](https://sportsara.com/) empowers people to set & track their own goals, pursue their ambitions, and improve their health on their own terms
+🏋️‍♂️ [Sportsara](https://sportsara.com/) empowers people to improve their health, pursue their ambitions, and earn through the sports they love, on their own terms.
 
 | Sportsara | 
 |:------:|
