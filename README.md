@@ -6,7 +6,7 @@
 
 🚀 Creator of [Sportsara](https://sportsara.com)
 
-I create technology that helps athletes compete, improve, connect, and earn through the sports they love.
+I create technology that helps athletes compete, improve, connect, and earn through the sports we love.
 
 🙆🏻‍♂️ Myers-Briggs INTJ
 
