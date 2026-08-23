@@ -8,7 +8,7 @@
 
 🧱 I create technology that helps athletes compete, improve, connect, and earn through the sports we love.
 
-🙆🏻‍♂️ Myers-Briggs INTJ | Virgo
+🙆🏻‍♂️ Myers-Briggs INTJ
 
 ⚙️ Product Management & Platform Engineering, Web and Database Applications 
 
