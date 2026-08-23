@@ -12,7 +12,7 @@
 
 ⚙️ Product Management & Platform Engineering, Web and Database Applications 
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com), a free platform where doubles badminton players track their health and performance, build their player profile, and earn through coaching, donations, and more, with optional premium upgrades
+⭐️ Recently: Building [Sportsara](https://sportsara.com), a free platform where doubles badminton players track their health and performance, build their player profile, with optional premium upgrades
 
 🏋️‍♂️ [Sportsara](https://sportsara.com/) empowers people to improve their health, pursue their ambitions, and earn through the sports they love, on their own terms.
 
