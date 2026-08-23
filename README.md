@@ -10,7 +10,7 @@
 
 🙆🏻‍♂️ Myers-Briggs INTJ | Virgo
 
-🧱 Product Management & Platform Engineering, Web and Database Applications 
+⚙️ Product Management & Platform Engineering, Web and Database Applications 
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a free platform where doubles badminton players track their health and performance, build their player profile, and earn through coaching, donations, and more, with optional premium upgrades
 
