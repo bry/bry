@@ -33,7 +33,7 @@
     - Organizers struggle to create evenly matched games
     - Personal improvement is difficult to see
     - Badminton groups have no reliable history
-    - Without weekly consistent activity, aging gradually takes away muscle mass and bone density, raising the risk of muscle atrophy, osteoporosis, and lost mobility in older ages.
+    - Without weekly consistent activity as a baseline, aging gradually takes away muscle mass and bone density, raising the risk of muscle atrophy, osteoporosis, and lost mobility in older ages.
     - Talented doubles players lack an easy way to showcase their experience, build credibility, and find coaching opportunities in the sport they love
     - Level of play in doubles badminton at all ages is traditionally subjective and inaccurate when assessing talent (not results oriented)
 
