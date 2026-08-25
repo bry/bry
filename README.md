@@ -2,13 +2,17 @@
 
 ### 📖 About Me
 
+🧱 I create technology that helps athletes compete, improve, connect, and earn through the sports we love.
+
+📝 Conatus: To expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
+
+💪 Modus Operandi: Keep building a stronger, more joyful life, and seek people with whom I can grow, thrive, and have fun along the way. Create systems that cause more positive human relationships to form and persist.
+
+🙆🏻‍♂️ Myers-Briggs INTJ
+
 🧑🏻‍💻 Senior Software Engineer 
 
 🚀 Creator of [Sportsara](https://sportsara.com)
-
-🧱 I create technology that helps athletes compete, improve, connect, and earn through the sports we love.
-
-🙆🏻‍♂️ Myers-Briggs INTJ
 
 ⚙️ Product Management & Platform Engineering, Web and Database Applications 
 
@@ -21,11 +25,6 @@
 | <a href="https://sportsara.com"><img src="https://media.sportsara.com/site/sportsara-sporty-star-128x128.webp" title="SportsaraStar" alt="SportsaraStar" width="55" height="55"/></a>
 
 🏸 [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
-
-📝 Conatus: To expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
-
-💪 Modus Operandi: Keep building a stronger, more joyful life, and seek people with whom I can grow, thrive, and have fun along the way. Create systems that cause more positive human relationships to form and persist.
-
 
 ### 🌱 Building
 
