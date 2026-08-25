@@ -2,23 +2,21 @@
 
 ### 📖 About Me
 
-🧱 I create technology that helps athletes compete, improve, connect, and earn through the sports we love.
-
-📝 Conatus: To expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
-
-💪 Modus Operandi: Keep building a stronger, more joyful life, and seek people with whom I can grow, thrive, and have fun along the way. Create systems that cause more positive human relationships to form and persist.
-
-🙆🏻‍♂️ Myers-Briggs INTJ
-
-🧑🏻‍💻 Senior Software Engineer 
+🧑🏻‍💻 Senior Software Engineer and product builder
 
 🚀 Creator of [Sportsara](https://sportsara.com)
 
-⚙️ Product Management & Platform Engineering, Web and Database Applications 
+⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where doubles badminton players track their health and performance, build their player profile
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com), a free platform where doubles badminton players track their health and performance, build their player profile, with optional premium upgrades
+⚙️ Experienced in product development & platform engineering, web and database applications 
 
-🏋️‍♂️ [Sportsara](https://sportsara.com/) empowers people to improve their health, pursue their ambitions, and earn through the sports they love, on their own terms.
+🧱 I build technology that helps athletes compete, improve, connect, and earn through the sports we love.
+
+📝 *Conatus*: Expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
+
+💪 *Modus Operandi*: Building a stronger, more joyful life, and seek people with whom I can grow, thrive, and have fun along the way. Create systems that cause more positive human relationships to form and persist
+
+🙆🏻‍♂️ Myers-Briggs INTJ
 
 | Sportsara | 
 |:------:|
