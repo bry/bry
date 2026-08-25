@@ -102,7 +102,7 @@
 - [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee) (Retired)
 - Video Games:
   - World of Warcraft | Retribution Paladin | Raid Crew DPS Leader (2007-2012 Retired)
-  - SC2 | Protoss | 1v1 Platinum (Retired)
+  - Starcraft 2 | Protoss | 1v1 Platinum (Retired)
   - Rust | Solo | Rustrician
   - Roblox (Gen Alpha nieces and nephews ask me to play)
 
