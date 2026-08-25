@@ -6,7 +6,7 @@
 
 🚀 Creator of [Sportsara](https://sportsara.com)
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where doubles badminton players track their health and performance, build their player profile
+⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where doubles badminton players track their health and performance, build their player profile, connect with others, and create opportunities to earn through sports
 
 ⚙️ Experienced in product development & platform engineering, web and database applications 
 
