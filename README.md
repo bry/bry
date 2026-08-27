@@ -93,7 +93,7 @@
 - Scalable Systems Design
 
 #### Side
-- Chess (USCF 1640, 2003)
+- Chess (USCF 1640)
 - Karaoke (not bad, but not good)
 - Bitcoin & Bitcoin Mining (Clean Money)
 - Tournament Poker Strategy (Applied Stats & Human Psychology)
