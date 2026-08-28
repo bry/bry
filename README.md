@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-🧑🏻‍💻 Senior Software Engineer and product builder
+🧑🏻‍💻 Senior Software Engineer
 
 🚀 Creator of [Sportsara](https://sportsara.com)
 
