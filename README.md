@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Senior Software Engineer
 
-🚀 Creator of [Sportsara](https://sportsara.com), ambition: #1 sports health & fitness software for recreational players as well as rising, hardworking talent in vs. sports, built by the players, for the players
+🚀 Creator of [Sportsara](https://sportsara.com) 
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where recreational doubles badminton players track their health and performance, build their player profile, connect with others, and create opportunities to earn through sports
 
@@ -25,7 +25,7 @@
 🏸 [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
 ### 🌱 Building
-
+- Ambition: #1 sports health & fitness software for recreational players as well as rising, hardworking talent in vs. sports, built by the players, for the players
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
   - **Problems Sportsara solves for recreational doubles badminton pairs**:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
