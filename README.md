@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Senior Software Engineer
 
-🚀 Creator of [Sportsara](https://sportsara.com)
+🚀 Creator of [Sportsara](https://sportsara.com), ambition: #1 sports health & fitness software for recreational players as well as rising, hardworking talent in vs. sports
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where recreational doubles badminton players track their health and performance, build their player profile, connect with others, and create opportunities to earn through sports
 
