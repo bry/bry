@@ -64,8 +64,10 @@
     - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
   - For **organizers**:
     - Make club activity visible, measurable, and easier to grow together
+    - Host skill balanced tournaments
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
+    - Build a doubles team profile for tournament eligibility, team sponsorship, and cash tournament invitationals
 - Sportsara Core Insights & Innovation
   1. People already track health and performance metrics in running, jogging, biking
   2. Players want an easy way to track performance, health, scores, and their sports story
