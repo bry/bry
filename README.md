@@ -68,7 +68,7 @@
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
     - Build a doubles team profile for tournament eligibility, team sponsorship, and prize purse doubles tournament invitationals
-- Sportsara Core Insights & Innovation
+- Sportsara Core Insights
   1. People already track health and performance metrics in running, jogging, biking
   2. Players want an easy way to track performance, health, scores, and their sports story
   3. Your favorite sport stays with you for life
