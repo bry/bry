@@ -12,8 +12,6 @@
 
 📝 **Conatus**: Expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
 
-💪 **Modus Operandi**: Building a stronger, more joyful life, and seek people with whom I can grow, thrive, and have fun along the way. Create systems that cause more positive human relationships to form and persist
-
 🙆🏻‍♂️ Myers-Briggs INTJ
 
 | Sportsara | 
