@@ -2,7 +2,7 @@
 
 ### 📖 About Me
 
-🧑🏻‍💻 Senior Software Engineer
+🧑🏻‍💻 Senior Software Engineer · Artist · Builder
 
 ⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where recreational doubles badminton players track their health and performance, build their player profile, connect with others, and create opportunities to earn through sports
 
