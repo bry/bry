@@ -61,7 +61,7 @@
     - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
   - For **organizers**:
     - Make club activity visible, measurable, and easier to grow together
-    - Host skill balanced, streamed tournaments
+    - Host skill balanced, streamed tournaments (45% to player prize pool, 40% to tournament organizers, 15% to Sportsara)
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
     - Build a doubles team profile for tournament eligibility, team sponsorship, and prize purse doubles tournament invitationals
