@@ -102,6 +102,7 @@
   - World of Warcraft | Retribution Paladin | Raid Crew DPS Leader (2007-2012 Retired)
   - Starcraft 2 | Protoss | 1v1 Platinum (Retired)
   - Rust | Solo | Rustrician
+  - Pokemon Go
   - Roblox (Gen Alpha nieces and nephews ask me to play)
 
 ### 📚 Recent Interests/Reading
