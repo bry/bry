@@ -63,6 +63,7 @@
     - Make club activity visible, measurable, and easier to grow together
     - Future: Host skill balanced tournaments, self-serve livestream tournament passes (tournament PPS revenue split structure: 45% player pool podium 1st-2nd-3rd, 40% organizer hosting, 15% Sportsara platform - revenue split structure promotes the growth of sport tournaments prize pools from players, organizers and Sporstara)
     - Host badminton creator tournaments, professional championship tournaments, and hybrid mix tournaments
+    - Increase economic viability of sports at every level, from recreation to professional championships country team selection
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
     - Build a doubles team profile for tournament eligibility, team sponsorship, and prize purse doubles tournament invitationals
