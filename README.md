@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Senior Software Engineer · Platform Creator · Builder
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where recreational doubles badminton players track their health and performance, build their player profile, connect with others, and create opportunities to earn through sports (Passion Project) 
+⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where recreational doubles badminton players track their health and performance, build their player profile, connect with others, and create opportunities to earn through sports (Passion Project)
 
 ⚙️ Experienced in product development & platform engineering, web and database applications 
 
@@ -61,7 +61,7 @@
     - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
   - For **organizers**:
     - Make club activity visible, measurable, and easier to grow together
-    - Host skill balanced tournaments, self-serve livestream tournament passes
+    - Future: Host skill balanced tournaments, self-serve livestream tournament passes (tournament PPS revenue split: 45% player pool, 40% organizer hosting, 15% Sportsara platform)
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
     - Build a doubles team profile for tournament eligibility, team sponsorship, and prize purse doubles tournament invitationals
