@@ -39,11 +39,11 @@
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp?v=2)](https://sportsara.com)
 
 - How to Use Sportsara:
-  1. Setup a doubles game, invite 3 players
+  1. Invite 3 other players to a doubles game
   2. Play the game IRL
   3. Record final game scores in Sportsara
   
-  📊 Enjoy updated personal anlaytics, sports profile & tournament invitationals
+  📊 Enjoy updated personal anlaytics, sports profile & livestream tournament invitationals
 - How Sportsara Works:
   - For every badminton game final scores recorded: 
     - An estimated 1 calorie burned per point played will be tallied for each player
