@@ -76,6 +76,7 @@
   6. New rising talent can be surfaced more easily, and a more clear pathway to higher level competition
   7. Sports software services player profiles and tournament organizer software are disjointed, ready for a new sports platform
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
+- Sportsara Roadmap: recording game scores, shareable player profiles & stats, organizer livestream PPS
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
   - My shareable Sportsara badminton player profile:
     - https://sportsara.com/🏸/bryan
