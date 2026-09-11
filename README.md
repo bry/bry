@@ -142,7 +142,7 @@
 
 ## 🧰 Software Tools, Languages, and Frameworks
 
-### Health & Fitness Tools
+### Sports Technology Platforms
 
 | Sportsara | 
 |:------:|
