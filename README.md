@@ -66,7 +66,7 @@
     - Increase economic viability of sports at every level, from recreation to professional championships country team selection
   - For **doubles partners**:
     - Every game strengthens your partnership and shows how you’re improving together
-    - Build a doubles team profile for tournament eligibility, team sponsorship, and prize purse doubles tournament invitationals
+    - Build a doubles team profile for tournament eligibility, team sponsorship, prize purse doubles tournament invitationals, and fan visibility 
 - Sportsara Core Insights
   1. People already track health and performance metrics in running, jogging, biking
   2. Players want an easy way to track performance, health, scores, and their sports story
