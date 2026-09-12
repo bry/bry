@@ -77,7 +77,7 @@
   5. (My opinion) Sports is one of the last bastions for human to human activity & connection outside family and friends, and better than boring jogging for health outcomes (jogging is great, don't get me wrong tho! I trained for, and ran, marathons!)
   6. New rising talent can be surfaced more easily, and a more clear pathway to higher level competition
   7. Sports software services player profiles and tournament organizer software are disjointed, ready for a new sports platform
-  8. A universal competitive rating should be explainable, reproducible, and independently auditable, especially when it controls tournament eligibility
+  8. A universal, competitive, modified Elo, Sports Aura Rating (SAR) should be explainable, reproducible, and independently auditable, across versus sports, especially when it controls tournament eligibility
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
 - Sportsara Roadmap: recording game scores, shareable player profiles & stats, organizer livestream PPS
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
