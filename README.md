@@ -20,7 +20,7 @@
 
 🏸 [Los Angeles Badminton Meetup Organizer](https://meetup.com/labadminton) for fun, health, exercise and improving badminton skillset fundamentals
 
-### 🌱 Building Sportsara.com
+### 🌱 Building
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
   - **Problems Sportsara solves for recreational doubles badminton pairs**:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
