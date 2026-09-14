@@ -43,7 +43,12 @@
   2. Play the game IRL
   3. Record final game scores in Sportsara
   
-  📊 Enjoy updated personal anlaytics, sports profile & organizer livestream tournament invitationals
+  📊 Enjoy updated personal analytics, sports profile & organizer livestream tournament invitationals
+  🚀 Unlock premium personal player pair insights:
+     - Who do I perform best with?
+     - Who gives me the most trouble?
+     - Advanced Elo history
+     - Personal records and milestones
 - How Sportsara Works:
   - For every badminton game final scores recorded: 
     - An estimated 1 calorie burned per point played will be tallied for each player
