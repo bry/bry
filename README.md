@@ -44,6 +44,7 @@
   3. Record final game scores in Sportsara
   
   📊 Enjoy updated personal analytics, sports profile & organizer livestream tournament invitationals
+
   🚀 Unlock premium personal player pair insights:
      - Who do I perform best with?
      - Who gives me the most trouble?
