@@ -8,7 +8,7 @@
 
 ⚙️ Experienced in product development & platform engineering, web and database applications 
 
-🧱 I build technology that helps athletes compete, improve, connect, and earn through the sports we love.
+🧱 I build technology that helps athletes compete, improve, connect, and earn through the sports we love
 
 📝 **Conatus**: Expand your power to act by turning uncertainty into measurable progress and to build systems and communities that help other people do the same
 
