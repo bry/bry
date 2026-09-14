@@ -36,7 +36,7 @@
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=2)](https://sportsara.com/badminton/bryan)
 
 #### Shareable Player Progress
-[![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v1.webp?v=2)](https://sportsara.com)
+[![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v2.webp?v=1)](https://sportsara.com)
 
 - How to Use Sportsara:
   1. Invite 3 other players to a doubles game
