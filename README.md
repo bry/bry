@@ -79,7 +79,7 @@
   2. Players want an easy way to track performance, health, scores, and their sports story
   3. Your favorite sports stays with you for life
   4. Sportsara enables individuals to organize IRL Elo result recorded verified games without a traditional tournament organizer
-  5. (My opinion) Sports is one of the last bastions for human to human activity & connection outside family and friends, and better than boring jogging for health outcomes (jogging is great, don't get me wrong tho! I trained for, and ran, marathons!)
+  5. (My opinion) Sports is one of the last bastions for human to human activity & connection outside family and friends, and better than jogging for health outcomes (jogging is great, don't get me wrong tho! I trained for, and ran, marathons!)
   6. New rising talent can be surfaced more easily, and a more clear pathway to higher level competition
   7. Sports software services player profiles and tournament organizer software are disjointed, ready for a new sports platform uniting all of them
   8. A universal, competitive, modified Elo, Sports Aura Rating (SAR) should be explainable, reproducible, and independently auditable, across versus sports, especially when it controls tournament eligibility (other modified Elo systems are hidden, closed sourced, and subject to manipulation and unfair, subjective changes)
