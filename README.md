@@ -67,7 +67,7 @@
     - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
   - For **organizers**:
     - Make club activity visible, measurable, and easier to grow together
-    - Future: Host skill balanced tournaments using pair Elo and use self-serve livestream software tournament passes (tournament PPS revenue split structure: 35% player pool podium 1st-2nd-3rd, 10% player promotion pool, 40% organizer hosting, 15% Sportsara platform - revenue split structure incentivizes the growth of sport tournaments prize pools from players, organizers and Sporstara)
+    - Future: Host skill balanced tournaments using pair Elo and use self-serve livestream software tournament passes (tournament PPS revenue split structure: 40% player pool podium 1st-2nd-3rd, 10% player promotion pool, 40% organizer hosting, 10% Sportsara platform - revenue split structure incentivizes the growth of sport tournaments prize pools from players, organizers and Sporstara)
       - Players, tournament organizers and Sportsara are all incentivized to promote tournament livestream and attract fans and sponsorships
     - Host badminton creator tournaments, professional championship tournaments, and hybrid mix tournaments
     - Make sports financially sustainable at every level by aligning players, organizers, fans, sponsors, and the platform around shared economic growth, expanding chances for everyone to earn the bag 💰
