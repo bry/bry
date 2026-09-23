@@ -83,6 +83,7 @@
   6. New rising talent can be surfaced more easily, and a more clear pathway to higher level competition
   7. Sports software services player profiles and tournament organizer software are disjointed, ready for a new sports platform uniting all of them
   8. A universal, competitive, modified Elo, Sports Aura Rating (SAR) should be explainable, reproducible, and independently auditable, across versus sports, especially when it controls tournament eligibility (other modified Elo systems are hidden, closed sourced, and subject to manipulation and unfair, subjective changes)
+  9. Hosted prize money tournaments from sponsors, pay-per-stream sales and other sources should be available for all levels, not just the pros
 - 📣 For any bugs, usability issues, feature requests or any app product feedback, contact me here: bryan@sportsara.com I think about how to make Sportsara better almost everyday. I'd love to hear your feedback.
 - Sportsara Roadmap: recording game scores, shareable player profiles & stats, organizer livestream PPS
   - Sportsara is also on [TwitterX](https://x.com/sportsaraapp) and [Reddit](https://www.reddit.com/r/Sportsara)
