@@ -20,7 +20,6 @@
 
 ### 🌱 Building
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
-- Vision: #1 World IRL versus sports platform for Elo challenge games, prize money tournaments and personal sports analytics for all levels
   - **Problems Sportsara solves for recreational doubles badminton pairs**:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
     - Nobody knows how good doubles pairs truly are together
