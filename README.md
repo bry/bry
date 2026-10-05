@@ -20,6 +20,7 @@
 
 ### 🌱 Building
 - [Sportsara](https://sportsara.com/) - A personal health & performance metrics tracker for badminton doubles players, groups, coaches and organizers
+- Vision: #1 World IRL versus sports platform for Elo challenge games, prize money tournaments and personal sports analytics for all levels
   - **Problems Sportsara solves for recreational doubles badminton pairs**:
     - Weekly personal games played disappear forever (no recording data, no analytics for improving)
     - Nobody knows how good doubles pairs truly are together
@@ -37,9 +38,10 @@
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v2.webp?v=1)](https://sportsara.com)
 
 - How to Use Sportsara:
-  1. Invite 3 other players to a doubles game
-  2. Play the game IRL
-  3. Record final game scores in Sportsara
+  1. Create a Game Lobby
+  2. Invite 3 other players to a doubles game
+  3. Play the game IRL
+  4. Record final game scores in Sportsara
   
   📊 Enjoy updated personal analytics, sports profile & tournament organizer invitationals
 
