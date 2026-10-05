@@ -61,7 +61,7 @@
     - Active months
     - etc.
     - [Optional] Personal monthly goal settings and views
-    - [Optional] A modified Elo rating will be adjusted for the playing pair
+    - [Optional] An open Elo rating will be adjusted for the playing pair on Game Lobby Challenge Game setting
       - Inspo: [Elo Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
   - For **coaches**:
     - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
