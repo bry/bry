@@ -107,8 +107,8 @@
 - Bitcoin & Bitcoin Mining (Clean Money)
 - Tournament Poker Strategy (Applied Stats & Human Psychology)
 - Boxing (Workouts, mitwork)
-- Bachata (Retired)
-- [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee) (Retired)
+- Bachata
+- [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee) (Just for Fun)
 
 ### 📚 Recent Interests/Reading
 
