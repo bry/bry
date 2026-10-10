@@ -109,12 +109,6 @@
 - Boxing (Workouts, mitwork)
 - Bachata (Retired)
 - [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee) (Retired)
-- Video Games:
-  - Unreal Tournament (College Solarium, retired)
-  - World of Warcraft | Retribution Paladin | Raid Crew DPS Leader (2007-2012 Retired)
-  - Starcraft 2 | Protoss | 1v1 Platinum (Retired)
-  - Pokemon Go (Group Raid Battler)
-  - Roblox (Gen Alpha nieces and nephews ask me to play)
 
 ### 📚 Recent Interests/Reading
 
