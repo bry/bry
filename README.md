@@ -63,7 +63,7 @@
     - [Optional] An open Elo rating will be adjusted for the playing pair on Game Lobby Challenge Game setting
       - Inspo: [Elo Rating System for Chess and Beyond](https://www.youtube.com/watch?v=AsYfbmp0To0)
   - For **coaches**:
-    - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for recreational program placement and/or competitive program team selection
+    - Use Sportsara as a supplement to track students’ practice games between training sessions, document their development, assess their current skill level, and make more informed decisions for competitive team selection
   - For **organizers**:
     - Make club activity visible, measurable, and easier to grow together
     - Future: Host skill balanced tournaments using pair Elo and use self-serve livestream software tournament passes (tournament PPS revenue split structure: 40% player pool podium 1st-2nd-3rd, 10% player promotion pool, 40% organizer hosting, 10% Sportsara platform - revenue split structure incentivizes the growth of sport tournaments prize pools from players, organizers and Sporstara)
