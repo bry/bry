@@ -112,6 +112,7 @@
 
 ### 📚 Recent Interests/Reading
 
+- Clean Architecture by Robert C. Martin
 - Fooled by Randomness by Nassim Nicholas Taleb
 - The Creative Act: A Way of Being by Rick Rubin
 - Leading with the Heart by Mike Krzyzewski
