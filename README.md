@@ -33,7 +33,7 @@
 #### Weekly Games Played Streak Bar
 [![Sportsara profile](https://media.sportsara.com/site/weekly-commit-bar.webp?v=2)](https://sportsara.com/badminton/bryan)
 
-#### Shareable Player Progress
+#### Shareable Player Progress, Storylines and Rivalries
 [![Sportsara profile](https://media.sportsara.com/site/default-profile-desktop-v2.webp?v=1)](https://sportsara.com)
 
 - How to Use Sportsara:
