@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Senior Software Engineer
 
-⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where recreational doubles badminton players track their health and performance, build their player profile story, connect with others, and create opportunities to earn through the sports we love
+⭐️ Recently: Building [Sportsara](https://sportsara.com), a platform where all doubles badminton players track their health and performance, build their player profile story, connect with others, and create opportunities to earn through the sports we love
 
 ⚙️ Experienced in product development & platform engineering, web and database applications 
 
