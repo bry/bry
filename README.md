@@ -122,6 +122,7 @@
 - [Rails 8 ActiveStorage Docs](https://guides.rubyonrails.org/active_storage_overview.html) + [Cloudflare R2 Image Variant Docs](https://developers.cloudflare.com/images/) + WebP Image Formatting
 - [Cloudflare Stream](https://www.cloudflare.com/products/stream/) 
 - Rails 8 SOLID queue, cache, cable
+- Universal Soldier (1992 Movie), Jean-Claude Van Damme
 
 
 ## 🧰 Software Tools, Languages, and Frameworks
