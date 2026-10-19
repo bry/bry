@@ -108,7 +108,7 @@
 - Tournament Poker Strategy (Applied Stats & Human Psychology)
 - Boxing (Workouts, mitwork)
 - Bachata
-- [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee) (Just for Fun)
+- [Twitch.tv/KraftyBee](https://twitch.tv/kraftybee/about) (Just for Fun)
 
 ### 📚 Recent Interests/Reading
 
