@@ -10,7 +10,7 @@
 
 🚙 Private Driver
 
-⭐️ Founder, Building [Sportsara](https://sportsara.com), a platform where all doubles badminton players track their health and performance, build their player profile story (Sports Aura), and create opportunities to earn through the sports we love
+⭐️ Founder, building [Sportsara](https://sportsara.com), a platform where all doubles badminton players track their health and performance, build their player profile story (Sports Aura), and create opportunities to earn through the sports we love
 
 ⚙️ Experienced in product development & platform engineering, web and database applications 
 
