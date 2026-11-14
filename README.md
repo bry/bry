@@ -104,7 +104,7 @@
 #### Side
 - Chess (USCF 1640)
 - Karaoke (not bad, but not good)
-- Bitcoin & Bitcoin Mining (Clean Money)
+- Bitcoin & Bitcoin Mining (Clean Money vs. Fiat Currency)
 - Tournament Poker Strategy (Applied Stats & Human Psychology)
 - Boxing (Workouts, mitwork)
 - Bachata
