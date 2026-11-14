@@ -129,6 +129,8 @@
 - [Cloudflare Stream](https://www.cloudflare.com/products/stream/) 
 - Rails 8 SOLID queue, cache, cable
 - Universal Soldier (1992 Movie), Jean-Claude Van Damme
+- YC
+- Shark Tank
 
 
 ## 🧰 Software Tools, Languages, and Frameworks
