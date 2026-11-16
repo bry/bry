@@ -4,7 +4,7 @@
 
 🧑🏻‍💻 Senior Software Engineer
 
-🤖 Amazon Seasonal Robotics Warehouse Associate
+🤖 Amazon Robotics Warehouse Associate (Seasonal)
 
 🏸 Assistant Badminton Coach @ Kudos Badminton Academy
 
